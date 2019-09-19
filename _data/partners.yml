@@ -1,10 +1,11 @@
--
-  group: "Senior"
-  elements:
-    - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
+# -
+#   group: "Senior"
+#   elements:
+#     - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
 -
   group: Apoio
   elements:
-    - { name: "AI Brasil", description: "AI Brasil", link: "https://www.facebook.com/BrasilAI/", imageUrl: "aibrasil.png", width: "120%" }
-    - { name: "SouJava Campinas JUG", description: "SouJava Campinas JUG", link: "https://soujava.org.br/regionais/campinas/", imageUrl: "soujavacampinas.jpg", width: "80%" }
-    
+    - { name: "School of AI", description: "School of AI", link: "http://meetup.com/pt-BR/school-of-ai-brasil", imageUrl: "school_of_ai_logo_white_wide.png", width: "100%" }
+    - { name: "AI Brasil", description: "AI Brasil", link: "https://www.facebook.com/BrasilAI/", imageUrl: "aibrasil.png", width: "100%" }
+    # - { name: "Iris", description: "Iris", link: "https://www.facebook.com/datascienceunicamp/", imageUrl: "iris.png", width: "100%" }
+    - { name: "Conpec", description: "Conpec", link: "https://www.conpec.com.br/", imageUrl: "conpec.png", width: "100%" }
