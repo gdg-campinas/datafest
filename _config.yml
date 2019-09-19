@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DataFest"
-email: "contato@gdg-campinas.org"
-description: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
+title: "GDG DataFest 19"
+email: "datafest@gdg-campinas.org"
+description: "O Data Fest é um evento voltado para a disseminação do conhecimento a respeito de dados e inteligência artificial."
 baseurl: "/datafest"
 url: "https://gdg-campinas.github.io"
 # permalink: "/blog/:title"
@@ -21,34 +21,26 @@ googleAnalyticsSiteUrl: "gdg-campinas.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 mapsApiKey: "AIzaSyBKggjiyNZRv2LMI86wSOAu2f2yZzUXArI"
 
-aboutEvent:
-  title: "SOBRE O DATAFEST"
-  content: "O Data Fest é o maior evento do interior de São Paulo voltado para a disseminação do conhecimento a respeito de big data, armazenamento e processamento dados (data) e assuntos relacionados."
-aboutGDG:
-  title: "O QUE É O GDG?"
-  content: "O GDG Campinas é parte de um programa do Google (Google Developer Group) sendo atualmente 1 de mais de 700 comunidades espalhadas pelo mundo. 
-  <br> Possuimos o objetivo de proporcionar ambientes de compartilhamento de conhecimento sobre os mais diversos assuntos que permeiam o desenvolvimento de um produto (software), da maneira mais acessível a todos que estiverem dispostos a aprender e compartilhar conosco."
-
 # Organizer Info
 organizerName: "GDG Campinas"
 organizerAlternateName: "Google Developer Group Campinas"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "contato@gdg-campinas.org"
+organizerEmail: "datafest@gdg-campinas.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/gdgcampinas/"
 
 # Head
-metaKeywords: "event, gdg, datafest, data, fest, google, programming, developers, campinas, database, sql, nosql, cloud"
+metaKeywords: "event, gdg, datafest, data, fest, google, programming, developers, campinas, artificial intelligence, inteligência artificial, ai, ia, machine learning, ml, deep learning, dl, gdpr, lgpd, management, governance, database, sql, nosql, cloud, gcp"
 twitterAccount: "@gdgcampinas"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
-c4pTitle: "Submeta um conteúdo"
-c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma PALESTRA, se voluntarie como MENTOR e/ou solicite um estande para a sua COMUNIDADE"
-c4sponsorsUrl: "mailto:contato@gdg-campinas.org?Subject=%5BPatrocinio%5D%20DataFest%202018"
+c4pUrl: "https://forms.gle/zckpzgGEX8rBRHyE8"
+c4pTitle: "Call4speakers"
+c4pDescription: "Se tiver interesse em compartilhar seu conhecimento com a comunidade submeta uma APRESENTAÇÃO, se voluntarie como MENTOR e / ou solicite um estande para a sua COMUNIDADE"
+c4sponsorsUrl: "mailto:datafest@gdg-campinas.org?Subject=%5BPatrocinio%5D%20DataFest%2019"
 c4mentorUrl: "<mentor>"
 
 
@@ -56,94 +48,94 @@ c4mentorUrl: "<mentor>"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Grade"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+#  - {permalink: "/schedule/", text: "Grade"}
+#  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029", text: "Compre seu ingresso"}
+ - {permalink: "/#tickets", text: "Ingressos"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029", text: "Compre seu ingresso"}
+ - {permalink: "/#tickets", text: "Ingressos"}
 
 # Hero Block
 heroImage: "datacenter.jpg"
-heroTitle: "GDG <typeout> DataFest 2018"
-eventDate: "31 de Outubro de 2018"
-typeoutTextValues: '"", "Campinas"'
+heroTitle: "GDG DataFest 19 <typeout> "
+eventDate: "11 de dezembro de 2019"
+typeoutTextValues: '"", "Campinas", "Science", "Engineering", "Business", "Workshops"'
 typeoutFallback: "Campinas"
 heroButtons:
-#  - {link: "https://goo.gl/forms/6GA9brCAOh3v3n3k1", text: "Fique por dentro"}
+ - {link: "https://forms.gle/zckpzgGEX8rBRHyE8", text: "Call4speakers"}
  - {permalink: "/#tickets", text: "Ingressos"}
-# heroButtonHint: "Deixe seu email no link abaixo e receba informações sobre os ingressos assim que liberados"
 
 # About Block
-# aboutTitle: "About GDG DevFest"
-# aboutBlock:
-#  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
-#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+aboutTitle: "Sobre o GDG DataFest"
+aboutBlock:
+ - {title: "Science", image: "science.jpg", text: "A trilha Science irá explorar temas relacionados aos assuntos de Ciência de Dados e Machine Learning. Nela, você verá como a Ciência de Dados tem ajudado a habilitar a inovação no mundo corporativo e acadêmico." }
+ - {title: "Engineering", image: "engineering.jpg", text: "A trilha Engineering será responsável por explorar todos os temas relacionados a obtenção, gerenciamento e processamento dos dados, para que estes possam ser consumidos por outras aplicações. Falaremos sobre ETL & ELT, Data Lakes, Feature Engineering, Event Driven Architectures, Serverless Data Processing e Arquiteturas de Big Data de maneira geral." }
+ - {title: "Business", image: "business.jpg", text: "Nesta trilha exploraremos assuntos como Governança de Dados, Lei Geral de Proteção de Dados, Soluções de Visualização de Dados, dentre outros temas que são pertinentes para líderes de negócios e profissionais da área." }
+ - {title: "Workshops", image: "workshops.jpg", text: "" }
 
 # Statistic Block
-statisticBlockImage: "statistics-2.png"
-# statisticBlockTitle: "Dados"
+statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
- - {count: "8", specialCharacter: "+", info: "horas", detail: "de muito networking e conteúdo de altíssima qualidade"}
- - {count: "16", specialCharacter: "", info: "palestrantes", detail: "referências no assunto"}
- - {count: "2", specialCharacter: "", info: "trilhas", detail: "simultâneas"}
+ - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
+ - {count: "6", specialCharacter: "", info: "workshops", detail: "para aprender com a mão na massa"}
+ - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "referências no assunto"}
+ - {count: "600", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
+# # Latest News Block
+# latestNewsTitle: "Últimas notícias"
+
+# Location Block
+locationBlockTitle: "Localização"
+eventLocationName: "Centro de Convenções | Unicamp"
+eventLocationLink: "https://www.cdc.proec.unicamp.br/"
+eventStreetAddress: "Avenida Érico Veríssimo, 500"
+eventAddressLocality: "Campinas"
+eventAddressLocalityRegion: "Cidade Universitária"
+eventPostalCode: "13083-851"
+eventAddressCountry: "Brasil"
+eventStartTime: "2019-12-11T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2019-12-11T17:00"
+eventPlaceCoordinates: "-22.815470,-47.071451"
+mapCenterCoordinates: "-22.815470,-47.071451"
+mapMobileCenterCoordinates: "-22.815470,-47.071451"
+# eventPlaceCoordinates: "-22.815470,-47.071451"
+# mapCenterCoordinates: "-22.815470,-47.071451"
+# mapMobileCenterCoordinates: "-22.815470,-47.071451"
+
+# Venue Block
+venueBlockTitle: "Local"
+venueBigImage: "auditorio_I.jpg"
+venueSmallImage1: "auditorio_II.jpg"
+venueSmallImage2: "auditorio_III.jpg"
+venueSmallImage3: "area_externa.jpg"
+venueTitle: "Centro de Convenções | Unicamp"
+venueFeatures: ["3 auditórios", "+200 participantes por auditório", "Estacionamento próximo"]
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "background-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Destaques"
-rockstarSpeakersButtonText: "Veja todos os palestrantes"
-# rockstarSpeakersButtonLink: "https://goo.gl/forms/xBtrzGaVkbDhMtUN2"
+rockstarSpeakersTitle: "Palestrantes passados"
+rockstarSpeakersButtonText: "Veja todos os palestrantes do DataFest 18"
 
 # Media
 media:
-  title: "Veja como foi o DataFest 2017"
+  title: "Veja como foi o DataFest 18"
   video: "https://www.youtube.com/embed/EpfEhdD0tjg"
   photos:
     row: 4
-    total: 16
+    total: 8
   button:
-    text: "DataFest 2017"
-    link: "https://gdg-campinas.github.io/datafest-2017/"
-
-# Location Block
-# Polis de tecnologia
-locationBlockTitle: "Localização"
-eventLocationName: "Pólis de Tecnologia"
-eventLocationLink: "http://polisdetecnologia.com.br/index.html"
-eventStreetAddress: "R. Dr. Ricardo Benetton Martins, 1000"
-eventAddressLocality: "Campinas"
-eventAddressLocalityRegion: "Parque II do Polo de Alta Tecnologia"
-eventPostalCode: "13086-510"
-eventAddressCountry: "Brasil"
-eventStartTime: ""
-eventDoorTime: ""
-eventEndTime: ""
-eventPlaceCoordinates: "-22.816986, -47.044942"
-mapCenterCoordinates: "-22.816986, -47.044942"
-mapMobileCenterCoordinates: "-22.816986, -47.044942"
-
-# Venue Block
-venueBlockTitle: "Local"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Pólis de Tecnologia"
-venueFeatures: ["Auditórios", "Anfiteatros"]
+    text: "Confira mais detalhes sobre o DataFest 18"
+    link: "https://gdg-campinas.github.io/datafest-2018/"
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Esperamos por você!"
-twitterHashTag: "gdgdatafest"
+tweetsFeedImage: "unicamp_campus_noturno.jpg"
+tweetsFeedTitle: "Fique ligado!"
+twitterHashTag: "datafest"
 twitterFeed: "<< twitter_feed_url >>"
 twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
@@ -164,90 +156,92 @@ ticketsInfo: "Os ingressos dão acesso a todas as trilhas e coffee breaks."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "110,00"
+  price: "100,00"
   priceCurrency: "R$"
-  ticketsNumber: "100"
-  # ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
-  buyButtonText: "Comprar"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "08/08/2018T00:00"
-  validThrough: "29/08/2018T23:59"
-  soldOut: true
-  soldOutText: "Esgotado"
-  # disabled: true
-  # featured: true
- -
-  name: "Ticket"
-  price: "210,00"
-  priceCurrency: "R$"
-  # ticketsNumber: "50"
+  ticketsNumber: "200"
   # ribbon: "-20%"
   # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
   buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "30/08/2018T00:00"
-  validThrough: "01/10/2018T23:59"
-  soldOut: true
+  validFrom: "11/09/2019T00:00"
+  validThrough: "11/10/2019T23:59"
+  disabled: false
+  soldOut: false
   soldOutText: "Esgotado"
-  # disabled: true
+ -
+  name: "Normal Bird"
+  price: "150,00"
+  priceCurrency: "R$"
+  ticketsNumber: "200"
+  # ribbon: "-20%"
   # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/10/2019T00:00"
+  validThrough: "11/11/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
  -
   name: "Late Bird"
-  price: "280,00"
+  price: "200,00"
   priceCurrency: "R$"
-  # ticketsNumber: "20"
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029"
+  ticketsNumber: "200"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "01/10/2018T00:00"
-  validThrough: "30/10/2018T23:59"
-  # disabled: true
-  # soldOut: true
-  # soldOutText: "Esgotado"
-  featured: true
+  validFrom: "11/11/2019T00:00"
+  validThrough: "11/12/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
  -
   name: "Apenas Camiseta"
-  price: "40,00"
+  price: "30,00"
   priceCurrency: "R$"
-  # ticketsNumber: "20"
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2018-tickets-48900606029#tickets"
+  # ticketsNumber: "200"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "08/08/2018T00:00"
-  validThrough: "21/10/2018T23:59"
-  # disabled: true
-  soldOut: true
+  validFrom: "11/09/2018T00:00"
+  validThrough: "30/11/2018T23:59"
+  disabled: false
+  soldOut: false
   soldOutText: "Esgotado"
 
 # Footer
 socialLinks:
- - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company-beta/15240699/", icon: "linkedin"}
  - {link: "https://twitter.com/gdgcampinas", icon: "twitter"}
+ - {link: "https://www.facebook.com/gdgcampinas/", icon: "facebook"}
  - {link: "https://plus.google.com/+GDG-CampinasOrg", icon: "google-plus"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://gdg-campinas.github.io/datafest-2017/", text: "DataFest 2017"}
-   - {link: "https://www.meetup.com/gdgcampinas/", text: "Meetup"}
-   - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo Facebook"}
-   - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Whatsapp"}
- -
-  title: "Eventos 2018"
-  links:
-   - {link: "https://gdg-campinas.github.io/devfest/", text: "Devfest"}
-   - {link: "https://gdg-campinas.github.io/androidfest/", text: "AndroidFest"}
-   - {link: "https://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
+   - {link: "https://gdg-campinas.github.io/datafest-2018/", text: "DataFest 18"}
+   - {link: "https://www.meetup.com/gdgcampinas/", text: "Grupo no Meetup"}
+   - {link: "https://www.facebook.com/groups/gdgcampinas/", text: "Grupo no Facebook"}
+   - {link: "https://chat.whatsapp.com/H7KW7cqz9pVCbw9onN48qZ", text: "Grupo no Whatsapp"}
+ # -
+ #  title: "Eventos 2018"
+ #  links:
+ #   - {link: "https://gdg-campinas.github.io/devfest/", text: "Devfest"}
+ #   - {link: "https://gdg-campinas.github.io/androidfest/", text: "AndroidFest"}
+ #   - {link: "https://gdg-campinas.github.io/qualityfest/", text: "QualityFest"}
  -
   title: "Contatos"
   links:
-   - {link: "mailto:contato@gdg-campinas.org", text: "contato@gdg-campinas.org"}
+   - {link: "mailto:datafest@gdg-campinas.org", text: "datafest@gdg-campinas.org"}
 #  -
 #   title: "FAQ"
 #   links:
