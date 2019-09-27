@@ -72,12 +72,12 @@ heroButtons:
 aboutTitle: "Sobre o GDG DataFest"
 aboutBlock:
  - {title: "Science", image: "science.jpg", text: "A trilha Science irá explorar temas relacionados aos assuntos de Ciência de Dados e Machine Learning. Nela, você verá como a Ciência de Dados tem ajudado a habilitar a inovação no mundo corporativo e acadêmico." }
- - {title: "Engineering", image: "engineering.jpg", text: "A trilha Engineering será responsável por explorar todos os temas relacionados a obtenção, gerenciamento e processamento dos dados, para que estes possam ser consumidos por outras aplicações. Falaremos sobre ETL & ELT, Data Lakes, Feature Engineering, Event Driven Architectures, Serverless Data Processing e Arquiteturas de Big Data de maneira geral." }
- - {title: "Business", image: "business.jpg", text: "Nesta trilha exploraremos assuntos como Governança de Dados, Lei Geral de Proteção de Dados, Soluções de Visualização de Dados, dentre outros temas que são pertinentes para líderes de negócios e profissionais da área." }
- - {title: "Workshops", image: "workshops.jpg", text: "" }
+ - {title: "Engineering", image: "engineering.jpg", text: "A trilha Engineering será responsável por explorar todos os temas relacionados a obtenção, gerenciamento e processamento dos dados, para que estes possam ser consumidos por outras aplicações." }
+ - {title: "Business", image: "business.jpg", text: "A trilha Business abordará assuntos como Governança de Dados, Lei Geral de Proteção de Dados (LGPD), Soluções de Visualização de Dados, dentre outros temas que são pertinentes para líderes de negócios e profissionais da área." }
+ - {title: "Workshops", image: "workshops.jpg", text: "Os workshops são para quem quer aprender na prática. Aqui teremos instrutores altamente qualificados, demonstrando na prática como solucionar problemas que todos temos e utilizar as mais novas tecnologias." }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "TPUpod_small.jpg"
 statisticBlock:
  - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
  - {count: "6", specialCharacter: "", info: "workshops", detail: "para aprender com a mão na massa"}
@@ -158,10 +158,26 @@ ticketsOffers:
   name: "Early Bird"
   price: "100,00"
   priceCurrency: "R$"
-  ticketsNumber: "200"
+  ticketsNumber: "100"
   # ribbon: "-20%"
   # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2019T00:00"
+  validThrough: "11/10/2019T23:59"
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Early Bird Estudante"
+  price: "50,00"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -174,10 +190,26 @@ ticketsOffers:
   name: "Normal Bird"
   price: "150,00"
   priceCurrency: "R$"
-  ticketsNumber: "200"
+  ticketsNumber: "100"
   # ribbon: "-20%"
   # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/10/2019T00:00"
+  validThrough: "11/11/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Normal Bird Estudante"
+  price: "75,00"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -190,10 +222,10 @@ ticketsOffers:
   name: "Late Bird"
   price: "200,00"
   priceCurrency: "R$"
-  ticketsNumber: "200"
+  ticketsNumber: "100"
   # ribbon: "-20%"
   # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -203,11 +235,43 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
+  name: "Late Bird Estudante"
+  price: "100,00"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/11/2019T00:00"
+  validThrough: "11/12/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Apenas Workshops"
+  price: "150,00"
+  priceCurrency: "R$"
+  ticketsNumber: "120"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/10/2019T00:00"
+  validThrough: "10/12/2019T23:59"
+  disabled: true
+  soldOut: false
+  soldOutText: "Esgotado"
+ -
   name: "Apenas Camiseta"
   price: "30,00"
   priceCurrency: "R$"
   # ticketsNumber: "200"
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-xxx"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
