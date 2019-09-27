@@ -59,8 +59,18 @@ main:
       - {name: "linkedin", link: "https://www.linkedin.com/in/pedrolelis/"}
       - {name: "github", link: "https://github.com/pedrolelis"}
       - {name: "facebook", link: "https://www.facebook.com/pedroaugusto.lelis"}
-  - 
+   - 
     id: 5
+    name: "Rodrigo"
+    surname: "Botti"
+    title: ""
+    thumbnailUrl: RodrigoBotti.jpeg
+    team: true
+    social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
+      - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}
+  - 
+    id: 6
     name: "Thaissa"
     surname: "Candella"
     title: ""
