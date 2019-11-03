@@ -65,7 +65,6 @@ eventDate: "10 e 11 de dezembro de 2019"
 typeoutTextValues: '"", "Campinas", "Science", "Engineering", "Business", "Workshops"'
 typeoutFallback: "Campinas"
 heroButtons:
- - {link: "https://forms.gle/zckpzgGEX8rBRHyE8", text: "Call4speakers"}
  - {permalink: "/#tickets", text: "Ingressos"}
 
 # About Block
