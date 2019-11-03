@@ -81,6 +81,18 @@ main:
     social: 
       - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}
       - {name: "facebook", link: "https://www.facebook.com/thaissa.candella"}
+  -
+    id: 7
+    name: "Eliézer"
+    surname: "Zarpelão"
+    title: ""
+    thumbnailUrl: EliezerZarpelao.png
+    team: true
+    ribbon: 
+      - {abbr: "GDG", title: "Google Developer Group"}
+    social: 
+      - {name: "linkedin", link: "https://www.linkedin.com/in/eliezerzarpelao/"}
+      - {name: "github", link: "https://github.com/elizarp"}
 #   - 
 #     id: 0
 #     name: "Thaissa"
