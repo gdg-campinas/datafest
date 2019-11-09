@@ -1,59 +1,273 @@
 -
-  id: 0
+  id: 000
   title: "A definir"
   place: ""
   subtype: presentation
   description: ""
 
 -
-  id: 100
+  id: 001
   title: "Credenciamento"
   place: ""
   service: true
   description: ""
+
 -
-  id: 200
+  id: 002
   title: "Apresentação GDG Campinas + Informações"
   place: ""
   service: true
   description: ""
+
 -
-  id: 600
-  title: "Almoço"
-  place: ""
-  service: true
-  description: ""
--
-  id: 1000
+  id: 003
   title: "Coffee"
   place: ""
   service: true
   description: "Momento para networking"
 
 -
-  id: 1400
+  id: 004
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 005
   title: "Encerramento"
   place: ""
   service: true
   description: ""
 
-# Keynote: Davi Silva
+# Mario Filho
+-
+  id: 101
+  title: "As 5 Etapas que Garantem o Sucesso de um Projeto de Data Science"
+  description: ""
+  subtype: presentation
+  speakers: [101]
+  complexity: Básico
+
+# Esther Colombini
+-
+  id: 102
+  title: "Reinforcement Learning today"
+  description: ""
+  subtype: presentation
+  speakers: [102]
+  complexity: Intermediário
+
+# Sandra Avila
+-
+  id: 103
+  title: "(De)Construindo Vieses em Bases de Dados"
+  description: ""
+  subtype: presentation
+  speakers: [103]
+  complexity: Intermediário
+
+# Bianca Ximenes
+-
+  id: 104
+  title: "Explicabilidade em Machine Learning: isso existe?"
+  description: ""
+  subtype: presentation
+  speakers: [104]
+  complexity: Avançado
+
+# Arnaldo Gualberto
+-
+  id: 105
+  title: "Deep Learning no mundo real: muito além do MNIST"
+  description: ""
+  subtype: presentation
+  speakers: [105]
+  complexity: Básico
+
+# Ahirton Lopes
+-
+  id: 106
+  title: "ML na sala de aula: como a IA está mudando a educação em todo o mundo"
+  description: ""
+  subtype: presentation
+  speakers: [106]
+  complexity: Todos
+
+# Gabi Batista
+-
+  id: 107
+  title: "Construção de recomendadores baseados em conteúdo para análise de proposições da Câmara dos Deputados"
+  description: ""
+  subtype: presentation
+  speakers: [107]
+  complexity: Intermediário
+
+# Silvano Filho
+-
+  id: 108
+  title: "fklearn - Nubank's Machine Learning Library"
+  description: ""
+  subtype: presentation
+  speakers: [108]
+  complexity: Intermediário
+
+# Alana Correia
+-
+  id: 109
+  title: "Atenção em Deep Learning"
+  description: ""
+  subtype: presentation
+  speakers: [109]
+  complexity: Intermediário
+
+# Letícia Pedroso
+-
+  id: 110
+  title: "Text Generation além do Lorem ipsum"
+  description: ""
+  subtype: presentation
+  speakers: [110]
+  complexity: Intermediário
+
+# Lucas Arruda
+-
+  id: 201
+  title: "Diferentes abordagens e arquiteturas de referência para Data Analytics no Google Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [201]
+  complexity: Básico Intermediário Avançado Todos
+
+# Pedro Lelis
+-
+  id: 202
+  title: "TensorFlow Extended: End-to-end platform for deploying production ML pipelines"
+  description: ""
+  subtype: presentation
+  speakers: [202]
+  complexity: Básico Intermediário Avançado Todos
+
+# Cristiano Breuel
+-
+  id: 303
+  title: "O que é ML Ops?"
+  description: ""
+  subtype: presentation
+  speakers: [303]
+  complexity: Básico Intermediário Avançado Todos
+
+# Waldecir Junior
+-
+  id: 204
+  title: "Data Quality: como podemos aplicar em ambientes de Big Data"
+  description: ""
+  subtype: presentation
+  speakers: [204]
+  complexity: Básico Intermediário Avançado Todos
+
+# Felipe Pereira
+-
+  id: 205
+  title: "[Data Lake + Arquitetura Lambda] na prática"
+  description: ""
+  subtype: presentation
+  speakers: [205]
+  complexity: Básico Intermediário Avançado Todos
+
+# Weslley Patrocinio
 -
   id: 301
-  title: "Keynote: Machine-Learning Bias"
-  place: ""
-  subtype: keynote
-  description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
-  speakers: [007]
-
-# Fernanda Andalo
--
-  id: 401
-  title: "Da Academia ao Mercado: Visão computacional com Deep Learning"
-  description: "Falar sobre como ensinamos os computadores a ver e interpretar o mundo, e como a disponibilidade de dados vem modificando isso. Posso mostrar os exemplos em que trabalho atualmente (em minha empresa, ONG e doutorado) e também o que vêm acontecendo na academia e no mercado."
+  title: "Como planejar e estimar o impacto de AI nas metas de sua empresa"
+  description: ""
   subtype: presentation
-  speakers: [013]
+  speakers: [301]
   complexity: Intermediário
+
+# Ivan Lima
+-
+  id: 302
+  title: "Dados no iFood: Passado, Presente e Futuro"
+  description: ""
+  subtype: presentation
+  speakers: [302]
+  complexity: Básico Intermediário Avançado Todos
+
+# Diego Senise
+-
+  id: 303
+  title: "Como Data Science está transformando o investimento em comunicação e mídia nas empresas?"
+  description: ""
+  subtype: presentation
+  speakers: [303]
+  complexity: Básico Intermediário Avançado Todos
+
+# Thiago Pessato
+-
+  id: 304
+  title: "UX para Business Intelligence"
+  description: ""
+  subtype: presentation
+  speakers: [304]
+  complexity: Básico Intermediário Avançado Todos
+
+# Thaís Falabella e Alan Pierre
+-
+  id: 305
+  title: "O papel dos designers na construção de uma cultura data-driven"
+  description: ""
+  subtype: presentation
+  speakers: [3050, 3051]
+  complexity: Básico Intermediário Avançado Todos
+
+## Keynote Abertura
+#-
+#  id: 401
+#  title: ""
+#  place: ""
+#  subtype: keynote
+#  description: ""
+#  speakers: []
+#
+## Keynote Encerramento
+#-
+#  id: 402
+#  title: ""
+#  place: ""
+#  subtype: keynote
+#  description: ""
+#  speakers: []
+
+# Gabriel Moreira
+-
+  id: 501
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [501]
+  complexity: Básico Intermediário Avançado Todos
+
+# Dri Silva
+-
+  id: 502
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [502]
+  complexity: Básico Intermediário Avançado Todos
+
+# Pedro Lelis
+-
+  id: 503
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [202]
+  complexity: Básico Intermediário Avançado Todos
+
+
+
+#######
 
 # Diego Nogare
 -

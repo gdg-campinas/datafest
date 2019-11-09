@@ -1,229 +1,317 @@
-# Eiti Kimura
+# Mario Filho
 -
-  id: 001
-  name: "Eiti"
-  surname: "Kimura"
-  company: "Movile"
-  title: "Coordenador de TI"
-  bio: "Eiti Kimura é Coordenador de TI e Arquiteto de Sistemas Distribuídos de alto desempenho na Movile Brasil. Eiti tem 16 anos de experiência em desenvolvimento de software. É entusiasta de tecnologias open-source, e é MVP do Apache Cassandra desde 2014 e tem vasta experiência com sistemas de backend, em especial plataformas de tarifação para as principais operadoras de telefonia do Brasil. Eiti possuí mestrado em engenharia elétrica e especialização em engenharia de software, além de palestrar internacionalmente em eventos como Strata Hadoop World, Spark Summit, Cassandra Summit e RedisConf."
-  thumbnailUrl: EitiKimura.png
+  id: 101
+  name: "Mario"
+  surname: "Filho"
+  company: ""
+  title: "Co-fundador numa fintech"
+  bio: "Mario Filho atua desde 2014 em projetos de data science para empresas. Premiado em cinco competições internacionais de machine learning. Atualmente trabalha como co-fundador em uma FinTech, e publica conteúdo sobre data science em https://www.youtube.com/c/MarioFilhoML."
+  thumbnailUrl: MarioFilho.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "KGM", title: "Kaggle Grandmaster", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/mariofilho" }
+
+# Esther Colombini
+-
+  id: 102
+  name: "Esther"
+  surname: "Colombini"
+  company: "Unicamp"
+  title: "Professora no Instituto de Computação"
+  bio: "Esther Luna Colombini é mestre e doutora em Engenharia de Computação pelo Instituto Tecnológico da Aeronáutica (ITA) com ênfase em IA e Robótica. É professora do Intituto de Computação da Universidade Estadual de Campinas (UNICAMP) e pesquisa nas áreas de aprendizado de máquina, robótica autônoma, modelagem cognitiva e robótica na educação. Foi presidente da RoboCup Brasil (2012-2016) e organizadora da Olimpíada Brasileira de Robótica (2015-2016), iniciativa pública apoiada pelo CNPq que envolve mais de 150 mil alunos no país. É membro fundador da Olimpíada Brasileira de Robótica (OBR), da Mostra Nacional de Robótica (MNR) e da RoboCup Brasil. Foi organizadora geral do evento mundial da RoboCup 2014 e das Competições Brasileiras e Latino-Americana de Robótica de 2010-2012. Foi diretora de Competições Científicas da Sociedade Brasileira de Computação (2017-2019) e é presidente do IEEE WIE Unicamp (Women in Engineering). Coordena o Laboratório de Robótica e Sistemas Cognitivos da UNICAMP."
+  thumbnailUrl: EstherColombini.jpg
   rockstar: true
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/eitikimura/" }
-    - { name: "twitter", link: "https://twitter.com/eitikimura" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/esther-colombini-7703278" }
 
-# Fernando Ultremare
-- 
-  id: 002
-  name: "Fernando"
-  surname: "Ultremare"
-  company: "Dextra"
-  title: "CTO"
-  bio: "A passionate software craftsman who's worked for a wide range of industries and products. Open source developer, technical writer and conference speaker.
-At Dextra, I blend my technical and management skills to lead teams that are building awesome software products for startups, technology, media, manufacturing, financial and other types of companies.
-I live in Brazil and graduated in Computer Science at the University of Campinas, Unicamp. When my head is not on computers, I love the countryside where I really enjoy riding horses and playing guitar out loud."
-  thumbnailUrl: FernandoUltremare.jpg
+# Sandra Avila
+-
+  id: 103
+  name: "Sandra"
+  surname: "Avila"
+  company: "Unicamp"
+  title: "Professora no Instituto de Computação"
+  bio: "Pesquisadora e Professora do Instituto de Computação da Universidade Estadual de Campinas. É doutora em Ciência da Computação pela UFMG e pela Universidade Pierre e Marie Curie (atual Sorbonne, Paris). Desenvolve projetos na área de Inteligência Artificial para saúde, análise de conteúdo sensível, agricultura de precisão e outras aplicações."
+  thumbnailUrl: SandraAvila.jpeg
+  rockstar: true
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/avilasandra" }
+    - { name: "twitter", link: "https://twitter.com/sandraavilabr" }
+
+# Bianca Ximenes
+-
+  id: 104
+  name: "Bianca"
+  surname: "Ximenes"
+  company: "Tecnora"
+  title: "Consultora"
+  bio: "Bianca é extremamente curiosa e gosta de entender como as coisas funcionam. É consultora da Tecnora e doutoranda em Ciência da Computação pela UFPE. Seu trabalho aborda as repercussões éticas de Machine Learning na sociedade, e ela aplica esse conhecimento na criação responsável de produtos digitais inteligentes."
+  thumbnailUrl: BiancaXimenes.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fernando-ultremare-7850459/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/biancaximenes" }
+    - { name: "twitter", link: "https://twitter.com/biancabianq" }
 
-# Daniel Cukier
+# Arnaldo Gualberto
 -
-  id: 003
-  name: "Daniel"
-  surname: "Cukier"
-  company: "Playax"
-  title: "CTO"
-  bio: "Pai da Laura, CTO na Playax. PhD em Ciência da Computação na USP e professor de JavaScript sênior na Laboratoria. Google Developer Expert (GDE) e meditador Vipassana"
-  thumbnailUrl: DanielCukier.jpg
+  id: 105
+  name: "Arnaldo"
+  surname: "Gualberto"
+  company: "WildLife Studios"
+  title: "Engenheiro de Machine Learning"
+  bio: "Arnaldo é Google Developer Expert em Machine Learning desde 2018 e trabalha como Engenheiro de Machine Learning na WildLife Studios. Recentemente, Arnaldo tornou-se doutorando em Deep Learning pela UFCG."
+  thumbnailUrl: ArnaldoGualberto.png
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
-    - { name: "twitter", link: "http://www.twitter.com/danicuki" }
-
-# Alexandre Ferreira
--
-  id: 004
-  name: "Alexandre Mello"
-  surname: "Ferreira"
-  company: "IC/Unicamp"
-  title: "Researcher"
-  bio: "Possuo doutorado em Ciência da Computação pela Politecnico di Milano, Itália (2013), mestrado em Ciência da Computação pela Universidade Federal de São Carlos (2008) e bacharelado em Ciência da Computação pela Escola de Engenharia de Piracicaba (2004). Desde 2015 atuo como pesquisador no RECOD (IC, Unicamp) em diversos projetos ligados direta ou indiretamente aos temas computação forense e aprendizado de máquina. Estes projetos são financiados pela iniciativa privada e agências de fomento. Além da pesquisa, também sou docente na Fatec Campinas e na Escola de Engenharia de Piracicaba nos cursos de computação."
-  thumbnailUrl: AlexandreFerreira.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://br.linkedin.com/in/alexandre-mello-ferreira-303a5682" }
-
-# Diego Nogare
--
-  id: 005
-  name: "Diego"
-  surname: "Nogare"
-  company: "Lambda3"
-  title: "Chief Data Officer"
-  bio: "Diego Nogare é graduado em Ciência da Computação, Pós-Graduado em Engenharia da Computação com ênfase em Desenvolvimento Web com .Net. Mestrando em Engenharia Elétrica e Computação. Autor de quatro livros em Português: Do Banco de Dados Relacional à Tomada de Decisão, SQL Server Além do Conceito: Blog Post Collection, SQL Server Além do Conceito: Volume 2 e Análise Preditiva com Azure Machine Learning e R. É Microsoft Most Valuable Professional [MVP] em Data Platform desde 2008, e em 2017 mudou de categoria para Artificial Intelligence. Também foi Regional Mentor do PASS nos anos de 2014 e 2015, Regional Advisor para área da América Latina no PASS entre 2015 e 2016, e PASS Board Director at Large nos anos de 2018 e 2019. Investe um tempo palestrando em eventos da Microsoft e do PASS, e quando consegue, escreve para o blog: www.diegonogare.net"
-  thumbnailUrl: DiegoNogare.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/diegonogare/" }
-    - { name: "twitter", link: "http://twitter.com/DiegoNogare" }
-
-# Hugo Rozestraten
--
-  id: 006
-  name: "Hugo"
-  surname: "Rozestraten"
-  company: "AWS"
-  title: "Specialist Solutions Architect"
-  bio: "Especialista em Big Data da AWS, há quatro anos trabalha com Cloud Computing. Trabalhou anterioremente no Google, IBM e Oracle, tendo trabalhado com banco de dados desde 2000."
-  thumbnailUrl: HugoRozestraten.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/hugorozestraten/" }
-
-# Davi Silva
--
-  id: 007
-  name: "Davi"
-  surname: "Silva"
-  company: "Dextra"
-  title: "Gerente de Projetos"
-  bio: "Desenvolvedor com experiência em projetos de desenvolvimento de software no Brasil e EUA, onde atuei como desenvolvedor nos laboratórios Bell Labs/Lucent. Antes da Dextra fui head de tecnologia e arquitetura em uma operadora de Telecom, principal executivo de uma fundação de pesquisa em TI e Segurança de Informação, e atuei em uma Fintech. Tenho 4 filhos, dois cachorros e jogo Squash. Compartilho algumas idéias em PapoDeCafe.com e meu Twitter é @DaviSilva."
-  thumbnailUrl: DaviSilva.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/davisilva/" }
-    - { name: "twitter", link: "http://twitter.com/davisilva" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/arnaldo-gualberto" }
+    - { name: "github", link: "https://github.com/arnaldog12" }
 
 # Ahirton Lopes
 -
-  id: 008
-  name: "Ahirton \"Einstein\""
+  id: 106
+  name: "Ahirton"
   surname: "Lopes"
-  company: "Duratex"
+  company: "Magna Sistemas"
   title: "Data Scientist"
-  bio: "Data Scientist na Duratex e professor de MBA em Machine Learning e Inteligência Artificial na FIAP além de community manager na AI Brasil. Apaixonado por aprendizagem, startups, psicologia e inovação em geral, é mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie (UPM) e doutorando em Engenharia Elétrica e Computação na mesma instituição. Seus projetos tiveram como temas principais: Motores de Recomendação, Auto Organização e Funcionamento Autônomo de VANTs, Processamento de Linguagem Natural dentre outros tópicos."
-  thumbnailUrl: AhirtonLopes.jpg
+  bio: "Data Scientist na Magna Sistemas, atuando na Secretaria de Educação do Estado de São Paulo, e professor de cursos de MBA e graduação em Ciência de Dados, Inteligência Artificial e Machine Learning, Cloud Computing bem como de Engenharia de Dados, além de community manager na AI Brasil e professor voluntário da iniciativa School of AI SP. Apaixonado por aprendizagem, startups, psicologia e inovação em geral, é mestre em Engenharia Elétrica pela Universidade Presbiteriana Mackenzie (UPM) e doutorando em Engenharia Elétrica e Computação na mesma instituição."
+  thumbnailUrl: AhirtonLopes.jpeg
   rockstar: false
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton/" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ahirton" }
+    - { name: "github", link: "https://github.com/AhirtonLopes" }
+
+# Gabi Batista
+-
+  id: 107
+  name: "Gabi"
+  surname: "Batista"
+  company: "Dextra"
+  title: "Cientista de Dados"
+  bio: "Cientista desde os 3 anos e fazendo projetos científicos desde os 14, atuo hoje como cientista de dados na Dextra. Sou uma pessoa curiosa, que ama aprender, criar, conversar e surfar."
+  thumbnailUrl: GabiBatista.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gabriela-nery-batista" }
+    - { name: "github", link: "https://github.com/gabibatista" }
+
+# Silvano Filho
+-
+  id: 108
+  name: "Silvano"
+  surname: "Filho"
+  company: "Nubank"
+  title: "Cientista de Dados"
+  bio: "Cientista de Dados no Nubank"
+  thumbnailUrl: SilvanoFilho.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/silvarjf" }
+
+# Alana Correia
+-
+  id: 109
+  name: "Alana"
+  surname: "Correia"
+  company: "Unicamp"
+  title: "Aluna de Doutorado"
+  bio: "Graduada em Engenharia de Computação pela Universidade Federal de Sergipe (2011-2015). Mestre em Engenharia Elétrica pela mesma instituição na área de Atenção Visual. Atualmente doutoranda em Ciência da Computação pela Universidade Estadual de Campinas (Unicamp) realizando pesquisas na área de atenção em deep learning e robótica, com ênfase em aprendizado por imitação e aprendizado por reforço."
+  thumbnailUrl: AlanaCorreia.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/alana-santana-401624128" }
+
+# Letícia Pedroso
+-
+  id: 110
+  name: "Letícia"
+  surname: "Pedroso"
+  company: "Everis Brasil"
+  title: "Data Scientist e Coordenadora de Comunidades"
+  bio: "Data Scientist na Everis Brasil, Instrutora de Lógica de Programação e Inteligência Artificial no Sesc São Paulo, coordenadora da comunidade Developers-BR na frente feminina de Inteligência Artificial com o projeto "E AI, Girls", coordenadora da comunidade Nerdzão/Nerdgirlz, entusiasta de Computer Vision, apaixonada por animais comunidades e compartilhamento de conhecimento."
+  thumbnailUrl: LeticiaPedroso.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leticiaspedroso" }
+
+# Lucas Arruda
+-
+  id: 201
+  name: "Lucas"
+  surname: "Arruda"
+  company: "CI&T"
+  title: "Systems Architect"
+  bio: "Google Developer Expert em Cloud e Arquiteto na CI&T, Lucas trabalha com tecnologia há mais de 12 anos desenhando e implementando soluções para clientes globais/internacionais (Fortune 500). Além de gerir times multi-disciplinares de alta performance, parte do seu tempo é dedicado a compartilhar conhecimento, dentro e fora da empresa onde trabalha, atingindo alguns milhares de profissionais através de seus cursos, palestras e workshops ao longo dos últimos anos."
+  thumbnailUrl: LucasArruda.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/larruda" }
+
+# Pedro Lelis
+-
+  id: 202
+  name: "Pedro"
+  surname: "Lelis"
+  company: "CI&T"
+  title: "Data Scientist"
+  bio: "Moved by curiosity, I'm an entrepreneurial scientist who seeks to improve people's lives through Artificial Intelligence solutions. I'm data scientist at CI&T, dean at School of AI and Google Cloud Certified both as Professional Data Engineer and as Professional Cloud Architect. I'm also speaker, coordinator and organizer in academic and business conferences. Specialties: Python, TensorFlow, Google Cloud and Teaching (People and Machines). Main researches and interests: Fairness in Machine Learning, Few-shot Learning, Memory-Augmented Neural Network, Transformer (Attention), Generative Adversarial Network and Reinforcement Learning."
+  thumbnailUrl: PedroLelis.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pedrolelis" }
+    - { name: "github", link: "https://github.com/pedrolelis" }
+
+# Cristiano Breuel
+-
+  id: 203
+  name: "Cristiano"
+  surname: "Breuel"
+  company: "Google Cloud"
+  title: "Data/ML Engineer"
+  bio: "Engenheiro de Dados e Machine Learning em Google Cloud, formado em Engenharia de Computação pela Poli-USP, com mestrado em Ciência da Computação pelo IME-USP."
+  thumbnailUrl: CristianoBreuel.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-breuel-59b516" }
+
+# Waldecir Junior
+-
+  id: 204
+  name: "Waldecir"
+  surname: "Junior"
+  company: "iFood"
+  title: "Engenheiro de Dados"
+  bio: "Após concluir o mestrado em Banco de Dados, iniciei minha carreira profissional como Administrador de  Banco de Dados, atividade que exerci por mais de 6 anos. Nos últimos 5 anos tenho me dedicado a Engenheria de Dados, ajudando a definir arquiteturas escaláveis para processamento, armazenamento e disponibilização de grandes volumes de dados. Atualmente atuo como Engenheiro de Dados no iFood. Aqui meu foco é o desenvolvimento de plataformas/ferramentas para simplificar todo o processo de ingestão, manipulação e disponibilização dos dados da empresa. Criação de ETLs, pipelines de dados, políticas de qualidade de dados, orquestração de dados e gestão de Data Lakes são as principais atividades que fazem parte do meu dia-a-dia."
+  thumbnailUrl: WaldecirJunior.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/waldecir-pereira-junior-04560335" }
+
+# Felipe Pereira
+-
+  id: 205
+  name: "Felipe"
+  surname: "Pereira"
+  company: "Daitan"
+  title: "Machine Learning Engineer"
+  bio: " Sou Expert em Dados, apaixonado por aprender, com 13 anos de experiência na área e com expertise em Engenharia de Dados, Ciência de Dados, Bancos de Dados Relacionais, Bancos de Dados NoSQL. Também tenho experiência em Metodologias Ágeis em projetos nacionais e internacionais."
+  thumbnailUrl: FelipePereira.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pereira-felipe" }
+
+# Weslley Patrocinio
+-
+  id: 301
+  name: "Weslley"
+  surname: "Patrocinio"
+  company: "SEEK"
+  title: "AI Manager"
+  bio: "Career focused on research, development and innovation based on artificial intelligence, software development and technology evaluation. Since 2009 developing R&D and business projects of AI, Machine Learning, Data science, Big Data, Internet of Things, Mobile/web/desktops apps, High Performance Computing and Software development for national / multinational companies and government. Former nanotechnology reasearcher."
+  thumbnailUrl: WeslleyPatrocinio.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/wespatrocinio" }
+
+# Ivan Lima
+-
+  id: 302
+  name: "Ivan"
+  surname: "Lima"
+  company: ""
+  title: "Head de Engenharia de Dados e ML"
+  bio: "iFood"
+  thumbnailUrl: IvanLima.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/ivanlima1" }
+
+# Diego Senise 
+-
+  id: 303
+  name: "Diego"
+  surname: "Senise"
+  company: "ILUMEO Data Science Company"
+  title: "Head of Data Tech e Cofounder"
+  bio: "Diego Senise é Cofundador e diretor de Data Tech da ILUMEO Data Science Company. Ao longo dos últimos 8 anos vem liderando projetos data-driven com foco em inovação, eficiência operacional e gestão de investimentos em mídia para empresas como XP Investimentos, Youse, Stone, Diageo, Nestlé e Loft. Anteriormente, atuou nas áreas de planejamento das agências F/Nazca, Leo Burnett e Click. Diego faz doutorado sobre a relação entre traços de personalidade e resultados de propaganda. É autor do livro Retorno de Investimentos em Comunicação. Formado em Publicidade e Propaganda pela ECA-USP e possui Masters em Comunicação pela Universidade da Flórida."
+  thumbnailUrl: DiegoSenise.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/diego-senise-b2a8279" }
+
+# Thiago Pessato
+-
+  id: 304
+  name: "Thiago"
+  surname: "Pessato"
+  company: "Cluster"
+  title: "Head of Information Design"
+  bio: "Graduado em Arquitetura e Pós-Graduado em Design Estratégico. Tem experiência de mais de 15 anos no desenvolvimento de interfaces digitais. Fundador da Cluster, idealizador e instrutor dos cursos oferecidos pela empresa na área de Dataviz, também é responsável por garantir a qualidade das entregas dos projetos de design de painéis de Business Intelligence realizados pela empresa."
+  thumbnailUrl: ThiagoPessato.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/thiagopessato" }
+
+# Thaís Falabella 
+-
+  id: 3050
+  name: "Thaís"
+  surname: "Falabella "
+  company: "Sympla"
+  title: "UX Researcher"
+  bio: "Thaís Falabella é formada em Design de Produto e mestre em Design, Inovação e Sustentabilidade pela UEMG. Trabalha com inovação, empreendedorismo e design. Atualmente é UX Researcher, na Sympla, professora no ensino superior de design do INAP,  além de ser Community Leader do InovAtiva Brasil e Líder Local do IxDA. Foi corresponsável pela implementação e liderança do Setor de Experiência do Usuário (UX) na PUC Minas Virtual, mentora de design de negócios na Mooca e trabalhou como Agente Local de Inovação no SEBRAE."
+  thumbnailUrl: ThaisFalabella .png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/thaisfalabella" }
+
+# Alan Pierre 
+-
+  id: 3051
+  name: "Alan"
+  surname: "Pierre"
+  company: "Sympla"
+  title: "UX Researcher"
+  bio: ""
+  thumbnailUrl: AlanPierre.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/alanpr" }
 
 # Gabriel Moreira
 -
-  id: 009
+  id: 501
   name: "Gabriel"
   surname: "Moreira"
   company: "CI&T"
   title: "Lead Data Scientist"
-  bio: "Gabriel Moreira é um cientista apaixonado por dados e Machine Learning.
-Ele também é aluno de doutorado no ITA, com pesquisa focada em Arquiteturas de Deep Learning para Sistemas de Recomendação.
-Na CI&T, lidera um time de Data Scientist e ML Engineers na transformação de jornadas digitais utilizando Cognitive."
-  thumbnailUrl: GabrielMoreira.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira/" }
-    - { name: "twitter", linke: "https://twitter.com/gspmoreira" }
-
-# Flavio Pimenta
--
-  id: 010
-  name: "Flávio"
-  surname: "Pimenta"
-  company: "Assertiva Soluções"
-  title: "Arquiteto Cloud e Evangelista Devops"
-  bio: "Arquiteto Cloud e Evangelista DevOps na Assertiva Soluções
-Formado em Matemática pela UNICAMP, com mais de 18 anos no mercado de TI atuando como desenvolvedor Java e também com experiência em CI/CD e Cloud Computing. Sou coordenador das comunidades AWS Campinas e Qualidade de Software Campinas."
-  thumbnailUrl: FlavioPimenta.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/flaap/" }
-    - { name: "twitter", link: "https://twitter.com/pimenteaflavio" }
-    - { name: "github", link: "https://github.com/flap" }
-
-# Cesar Nogueira
--
-  id: 011
-  name: "Cesar"
-  surname: "Nogueira"
-  company: "CI&T"
-  title: "Engenheiro de Software"
-  bio: ""
-  thumbnailUrl: CesarNogueira.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/cesarnog" }
-    - { name: "facebook", link: "http://facebook.com/cesarnog" }
-    - { name: "site", link: "http://cesarnogueira.tech" }
-
-# Cristiano Santos
--
-  id: 012
-  name: "Cristiano Joaquim"
-  surname: "dos Santos"
-  company: "Sestini"
-  title: "Coordenador de BI/Big Data e Banco de Dados"
-  bio: "Cristiano Joaquim, formado em Ciência da Computação pela Universidade de Guarulhos e Pós Graduado em BI pela Faculdade IBTA.
-Professor Universitário em Cursos de Tecnologia e Profissional de TI com no momento 19 anos de experiência em diversos ramos de atividades, como: Varejo e Atacarejo, Logística, Financeiras e prestação de serviços por meios de pagamentos."
-  thumbnailUrl: CristianoSantos.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-joaquim-50956623/" }
-
-# Fernanda Andalo
--
-  id: 013
-  name: "Fernanda"
-  surname: "Andalo"
-  company: "Unicamp"
-  title: "Researcher"
-  bio: ""
-  thumbnailUrl: FernandaAndalo.jpg
-  rockstar: true
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/feandalo/" }
-
-# Felipe Santos
--
-  id: 014
-  name: "Felipe"
-  surname: "Santos"
-  company: "Daitan Group"
-  title: "Data Scientist"
-  bio: "Sou doutor em física e desde o início da graduação me fascinava a ideia de aplicar o mindset de físico em problemas \"sociais\" - como urbanização, comportamentos, linguagens, etc. Naturalmente, esse interesse me levou a ciência de dados, área pela qual sou absolutamente apaixonado. Tenho experiência tanto no desenvolvimento quanto no deploy de modelos baseados em machine learning com finalidades diversas, mas o que faz meus olhos brilharem é aplicar essas técnicas em problemas relacionados a urbanização, linguagens ou análises comportamentais."
-  thumbnailUrl: FelipeSantos.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/felipe-s-77854123/" }
-
-# Everton Gago
-- 
-  id: 015
-  name: "Everton"
-  surname: "Gago"
-  company: "Dextra"
-  title: "Especialista em Data Science"
-  bio: "Everton Gago é Doutorando e Mestre em Engenharia Elétrica na Unicamp. Atualmente pesquisa e desenvolve algoritmos matemáticos que reproduzem de forma artificial os aspectos biológicos de aprendizado e auto-organização. Seus principais interesses são: Aprendizado de máquina, processamento digital de sinais e computação evolutiva"
-  thumbnailUrl: EvertonGago.jpg
-  rockstar: false
-  social: []
-
-# Alline Oliveira
-- 
-  id: 016
-  name: "Alline"
-  surname: "Oliveira"
-  company: "CreBit"
-  title: "CTO"
-  bio: "Alline Oliveira é uma das poucas mulheres no mundo certificada como Google Developer Expert, devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Departamento de Defesa Americano, Universidade da California, TAM, Anatel, Serpro, dentre outros. Hoje é a CTO da fintech Crebit."
-  thumbnailUrl: AllineOliveira.jpg
+  bio: "Gabriel Moreira é Lead Data Scientist na CI&T e Google Developer Expert (GDE) em Machine Learning. Possui bacharelado em Ciência da Computação e Mestrado pelo ITA, onde atualmente cursa Doutorado, com ênfase em Sistemas de Recomendação e Deep Learning. Possui mais de 15 anos de experiência em desenvolvimento de software, soluções de machine learning, analytics e big data."
+  thumbnailUrl: GabrielMoreira.jpeg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/allineo/"}
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/gabrielspmoreira" }
+
+# Dri Silva
+-
+  id: 502
+  name: "Dri"
+  surname: "Silva"
+  company: "ASN.Rocks"
+  title: "Jedi em Analytics"
+  bio: "Adriana Silva é formada em estatística pela UNESP Presidente Prudente, mestre em estatística na ESALQ/USP. Já trabalhou em empresas como SAS, Oracle, Abril e Kantar. Atualmente é Jedi em Analytics na ASN.Rocks (www.asn.rocks), professora na FGV, EGG, SAS e está como Presidente do Conselho regional de estatística, da região de São Paulo (Conre-3)!"
+  thumbnailUrl: DriSilva.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }
 
 # - 
 #   id: 99
