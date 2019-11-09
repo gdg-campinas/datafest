@@ -1,189 +1,269 @@
 -
-  id: 0
+  id: 000
   title: "A definir"
   place: ""
   subtype: presentation
   description: ""
 
 -
-  id: 100
+  id: 001
   title: "Credenciamento"
   place: ""
   service: true
   description: ""
+
 -
-  id: 200
+  id: 002
   title: "Apresentação GDG Campinas + Informações"
   place: ""
   service: true
   description: ""
+
 -
-  id: 600
-  title: "Almoço"
-  place: ""
-  service: true
-  description: ""
--
-  id: 1000
+  id: 003
   title: "Coffee"
   place: ""
   service: true
   description: "Momento para networking"
 
 -
-  id: 1400
+  id: 004
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 005
   title: "Encerramento"
   place: ""
   service: true
   description: ""
 
-# Keynote: Davi Silva
+# Mario Filho
 -
-  id: 301
-  title: "Keynote: Machine-Learning Bias"
-  place: ""
-  subtype: keynote
-  description: "Erros de algoritmos \"mal treinados\" levam a conclusões erradas: desde a identificação de gorilas em fotos de humanos até a prisão de inocentes. Neste cenário, qual papel nós estamos desempenhando? Estamos ajudando a reforçar e a replicar algoritmos tendenciosos (biased)?"
-  speakers: [007]
-
-# Fernanda Andalo
--
-  id: 401
-  title: "Da Academia ao Mercado: Visão computacional com Deep Learning"
-  description: "Falar sobre como ensinamos os computadores a ver e interpretar o mundo, e como a disponibilidade de dados vem modificando isso. Posso mostrar os exemplos em que trabalho atualmente (em minha empresa, ONG e doutorado) e também o que vêm acontecendo na academia e no mercado."
+  id: 101
+  title: "As 5 Etapas que Garantem o Sucesso de um Projeto de Data Science"
+  description: ""
   subtype: presentation
-  speakers: [013]
-  complexity: Intermediário
-
-# Diego Nogare
--
-  id: 402
-  title: "Montando um ambiente de Big Data com Spark integrado com R no Azure"
-  description: "Nesta sessão vou apresentar a criação do Apache Spark a partir do zero, instanciando uma máquina no Azure e permitindo a interação com linguagem R, incluindo os mecanismos de Machine Learning integrado com Big Data."
-  subtype: presentation
-  speakers: [005]
-  complexity: Intermediário
-
-# Daniel Cukier
--
-  id: 501
-  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
-  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
-  subtype: presentation
-  speakers: [003]
-  complexity: Intermediário
-
-# Alline Oliveira
--
-  id: 502
-  title: "BigQuery/BigData. Programação com propósito"
-  description: "Qual o objetivo maior de suas linhas de código? Você realmente necessita de um Schema forte, inter relacionado, vinculado a chaves inflexíveis? O quão estável está o seu business? Já foi validado e já produz os resultados esperados?"
-  subtype: presentation
-  speakers: [016]
-  complexity: Todos
-
-# Alexandre Ferreira
--
-  id: 901
-  title: "Provenance analysis against fake news"
-  description: "Com o objetivo de recontar uma história a partir de textos, imagens e vídeos, o projeto temático Fapesp DéjàVu reúne diversas técnicas de aprendizado de máquina e visão computacional para organizar e recriar eventos, contando toda a história em diversas perspectivas. Esta palestra foca em provenance analysis, um braço importante do projeto, e como ela pode ser utilizada no combate a fake news."
-  subtype: presentation
-  speakers: [004]
+  speakers: [101]
   complexity: Básico
 
-# Cesar Nogueira
+# Esther Colombini
 -
-  id: 702
-  title: "Vamos falar de pipelines de dados?"
-  description: "Aprenda como a utilizar o Google Dataflow e Google BigQuery para processar seu grande volume de dados juntamente com Dataflow SDK e Apache Beam com uso de cron jobs no Google App Engine de forma a automatizar suas pipelines de dados"
+  id: 102
+  title: "Reinforcement Learning today"
+  description: ""
   subtype: presentation
-  speakers: [011]
+  speakers: [102]
   complexity: Intermediário
+
+# Sandra Avila
+-
+  id: 103
+  title: "(De)Construindo Vieses em Bases de Dados"
+  description: ""
+  subtype: presentation
+  speakers: [103]
+  complexity: Intermediário
+
+# Bianca Ximenes
+-
+  id: 104
+  title: "Explicabilidade em Machine Learning: isso existe?"
+  description: ""
+  subtype: presentation
+  speakers: [104]
+  complexity: Avançado
+
+# Arnaldo Gualberto
+-
+  id: 105
+  title: "Deep Learning no mundo real: muito além do MNIST"
+  description: ""
+  subtype: presentation
+  speakers: [105]
+  complexity: Básico
 
 # Ahirton Lopes
 -
-  id: 801
-  title: "Motores de Recomendação - O que são? Onde vivem? Do que se alimentam?"
-  description: "Um sistema de recomendação é uma espécie de sistema de filtragem de informações que procura prever a \"classificação\" ou \"preferência\" que um determinado usuário dará a um item ou serviço. Hoje em dia eles se tornaram cada vez mais populares e estão presentes nas mais diversas áreas, incluindo filmes, músicas, notícias, livros, artigos de pesquisa, consultas de pesquisa e produtos em geral. 
-Nessa palestra vou mostrar diferentes implementações de sistemas de recomendação em diferentes ferramentas, programando em Python e utilizando ferramentas disponíveis via Google Cloud Plataform (tais como TensorFlow e Cloud Machine Learning Engine), demonstrando diferentes técnicas, trazendo estudos de caso de mundo real tais como recomendação de filmes dentre outros."
+  id: 106
+  title: "ML na sala de aula: como a IA está mudando a educação em todo o mundo"
+  description: ""
   subtype: presentation
-  speakers: [008]
+  speakers: [106]
   complexity: Todos
 
-# Cristiano dos Santos
+# Gabi Batista
 -
-  id: 902
-  title: "Conhecendo o Azure HDInsights"
-  description: "Como utilizar o ambiente Azure para processamento de dados utilizando features de Big Data, como Cluster Apache Hadoop, Spark entre outras features."
+  id: 107
+  title: "Construção de recomendadores baseados em conteúdo para análise de proposições da Câmara dos Deputados"
+  description: ""
   subtype: presentation
-  speakers: [012]
+  speakers: [107]
   complexity: Intermediário
 
-# Felipe Santos
+# Silvano Filho
 -
-  id: 701
-  title: "Deploy de Modelos de Machine Learning em Arquiteturas Serverless"
-  description: "Como criar, validar e colocar modelos de Machine Learning em produção utilizando arquiteturas serverless na nuvem."
+  id: 108
+  title: "fklearn - Nubank's Machine Learning Library"
+  description: ""
   subtype: presentation
-  speakers: [014]
-  complexity: Básico
-
-# Flavio Pimenta
--
-  id: 802
-  title: "Aguentando uma enxurrada de requisições com API Gateway + Lambda + Kinesis"
-  description: "O objetivo é abordar a tecnologia serverless em conjunto com um grande volume de requisições e dados. Além disso, mostrar a relação custo x benefício de cada abordagem se faz necessário para que o custo também seja uma preocupação dos Arquitetos e Desenvolvedores ao pensar em uma solução deste porte."
-  subtype: presentation
-  speakers: [010]
+  speakers: [108]
   complexity: Intermediário
 
-# Fernando Ultremare
+# Alana Correia
 -
-  id: 1101
-  title: "Big Data Science on Google Cloud"
-  description: "Um panorama das principais ferramentas e o que há de mais  de novo em Data Science/Engineering no Google Cloud"
+  id: 109
+  title: "Atenção em Deep Learning"
+  description: ""
   subtype: presentation
-  speakers: [002]
-  complexity: Básico
-
-# Eiti Kimura
--
-  id: 1102
-  title: "Apache Spark Structured Stream: Um moedor de dados em tempo real"
-  description: "Você tem grandes volumes de transações e precisa consolidar essas informações? ou aplicar transformações nesses dados? 
-O Apache Spark através de sua solução de processamento de dados via Structured Stream provê uma API simples para implementar o processamento de dados em \"tempo real\" de forma altamente escalável.
-Nessa apresentação vou mostrar como utilizamos o Structured  Stream para processar mais de 100 milhões de transações de tentativas de tarifação por dia, apresentarei nossa arquitetura  e alguns aspectos que sobre Streams usando Apache Spark que poderão te ajudar na tarefa de trabalhar e transformar grandes volumes de informação."
-  subtype: presentation
-  speakers: [001]
+  speakers: [109]
   complexity: Intermediário
+
+# Letícia Pedroso
+-
+  id: 110
+  title: "Text Generation além do Lorem ipsum"
+  description: ""
+  subtype: presentation
+  speakers: [110]
+  complexity: Intermediário
+
+# Lucas Arruda
+-
+  id: 201
+  title: "Diferentes abordagens e arquiteturas de referência para Data Analytics no Google Cloud"
+  description: ""
+  subtype: presentation
+  speakers: [201]
+  complexity: Básico Intermediário Avançado Todos
+
+# Pedro Lelis
+-
+  id: 202
+  title: "TensorFlow Extended: End-to-end platform for deploying production ML pipelines"
+  description: ""
+  subtype: presentation
+  speakers: [202]
+  complexity: Básico Intermediário Avançado Todos
+
+# Cristiano Breuel
+-
+  id: 303
+  title: "O que é ML Ops?"
+  description: ""
+  subtype: presentation
+  speakers: [303]
+  complexity: Básico Intermediário Avançado Todos
+
+# Waldecir Junior
+-
+  id: 204
+  title: "Data Quality: como podemos aplicar em ambientes de Big Data"
+  description: ""
+  subtype: presentation
+  speakers: [204]
+  complexity: Básico Intermediário Avançado Todos
+
+# Felipe Pereira
+-
+  id: 205
+  title: "[Data Lake + Arquitetura Lambda] na prática"
+  description: ""
+  subtype: presentation
+  speakers: [205]
+  complexity: Básico Intermediário Avançado Todos
+
+# Weslley Patrocinio
+-
+  id: 301
+  title: "Como planejar e estimar o impacto de AI nas metas de sua empresa"
+  description: ""
+  subtype: presentation
+  speakers: [301]
+  complexity: Intermediário
+
+# Ivan Lima
+-
+  id: 302
+  title: "Dados no iFood: Passado, Presente e Futuro"
+  description: ""
+  subtype: presentation
+  speakers: [302]
+  complexity: Básico Intermediário Avançado Todos
+
+# Diego Senise
+-
+  id: 303
+  title: "Como Data Science está transformando o investimento em comunicação e mídia nas empresas?"
+  description: ""
+  subtype: presentation
+  speakers: [303]
+  complexity: Básico Intermediário Avançado Todos
+
+# Thiago Pessato
+-
+  id: 304
+  title: "UX para Business Intelligence"
+  description: ""
+  subtype: presentation
+  speakers: [304]
+  complexity: Básico Intermediário Avançado Todos
+
+# Thaís Falabella e Alan Pierre
+-
+  id: 305
+  title: "O papel dos designers na construção de uma cultura data-driven"
+  description: ""
+  subtype: presentation
+  speakers: [3050, 3051]
+  complexity: Básico Intermediário Avançado Todos
+
+## Keynote Abertura
+#-
+#  id: 401
+#  title: ""
+#  place: ""
+#  subtype: keynote
+#  description: ""
+#  speakers: []
+#
+## Keynote Encerramento
+#-
+#  id: 402
+#  title: ""
+#  place: ""
+#  subtype: keynote
+#  description: ""
+#  speakers: []
 
 # Gabriel Moreira
 -
-  id: 1201
-  title: "Sistemas de Recomendação sem enrolação"
-  description: "Nesta palestra, apresentarei uma introdução prática sobre as principais técnicas de sistemas de recomendação, incluindo arquiteturas recentes baseadas em Deep Learning.
-Serão apresentados exemplos utilizando Python, TensorFlow e Google ML Engine, e fornecidos datasets para exercitarmos um cenário de recomendação de artigos e notícias."
-  subtype: presentation
-  speakers: [009]
-  complexity: Básico
-
-# Hugo Rozestraten
--
-  id: 1202
-  title: "Integrando Machine Learning na ingestão à persistência."
-  description: "Como ferramentas de ingestão e streaming em paralelo podem antecipar análises no Pipeline de Big Data e diminuir a movimentação dos dados após a persistência, garantindo agilidade na aplicação de Modelos de Big Data."
-  subtype: presentation
-  speakers: [006]
-  complexity: Intermediário
-
-# Keynote: closing: Gago
--
-  id: 1301
-  title: "Keynote de Fechamento"
-  place: ""
+  id: 501
+  title: ""
   description: ""
-  subtype: keynote
-  speakers: [015]
+  subtype: presentation
+  speakers: [501]
+  complexity: Básico Intermediário Avançado Todos
+
+# Dri Silva
+-
+  id: 502
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [502]
+  complexity: Básico Intermediário Avançado Todos
+
+# Pedro Lelis
+-
+  id: 503
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [202]
+  complexity: Básico Intermediário Avançado Todos
 
 # -
 #   id: 002
