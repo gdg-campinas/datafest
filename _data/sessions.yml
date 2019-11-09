@@ -241,29 +241,29 @@
 # Gabriel Moreira
 -
   id: 501
-  title: ""
+  title: "Deep Recommender Systems na Prática"
   description: ""
   subtype: presentation
   speakers: [501]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Dri Silva
 -
   id: 502
-  title: ""
+  title: "E agora, qual modelo é o melhor?"
   description: ""
   subtype: presentation
   speakers: [502]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Pedro Lelis
 -
   id: 503
-  title: ""
+  title: "TensorFlow 2.0"
   description: ""
   subtype: presentation
   speakers: [202]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Básico
 
 # -
 #   id: 002
