@@ -126,18 +126,18 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/alana-santana-401624128" }
 
-# Letícia Pedroso
--
-  id: 110
-  name: "Letícia"
-  surname: "Pedroso"
-  company: "Everis Brasil"
-  title: "Data Scientist e Coordenadora de Comunidades"
-  bio: "Data Scientist na Everis Brasil, Instrutora de Lógica de Programação e Inteligência Artificial no Sesc São Paulo, coordenadora da comunidade Developers-BR na frente feminina de Inteligência Artificial com o projeto "E AI, Girls", coordenadora da comunidade Nerdzão/Nerdgirlz, entusiasta de Computer Vision, apaixonada por animais comunidades e compartilhamento de conhecimento."
-  thumbnailUrl: LeticiaPedroso.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/leticiaspedroso" }
+## Letícia Pedroso
+#-
+#  id: 110
+#  name: "Letícia"
+#  surname: "Pedroso"
+#  company: "Everis Brasil"
+#  title: "Data Scientist e Coordenadora de Comunidades"
+#  bio: "Data Scientist na Everis Brasil, Instrutora de Lógica de Programação e Inteligência Artificial no Sesc São Paulo, coordenadora da comunidade Developers-BR na frente feminina de Inteligência Artificial com o projeto "E AI, Girls", coordenadora da comunidade Nerdzão/Nerdgirlz, entusiasta de Computer Vision, apaixonada por animais comunidades e compartilhamento de conhecimento."
+#  thumbnailUrl: LeticiaPedroso.jpg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/leticiaspedroso" }
 
 # Lucas Arruda
 -
