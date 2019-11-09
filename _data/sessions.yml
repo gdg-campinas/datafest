@@ -150,11 +150,11 @@
 
 # Cristiano Breuel
 -
-  id: 303
+  id: 203
   title: "O que é ML Ops?"
   description: ""
   subtype: presentation
-  speakers: [303]
+  speakers: [203]
   complexity: Básico Intermediário Avançado Todos
 
 # Waldecir Junior
@@ -217,7 +217,7 @@
   title: "O papel dos designers na construção de uma cultura data-driven"
   description: ""
   subtype: presentation
-  speakers: [3050, 3051]
+  speakers: [3050]
   complexity: Básico Intermediário Avançado Todos
 
 ## Keynote Abertura
