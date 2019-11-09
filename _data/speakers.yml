@@ -6,7 +6,7 @@
   company: ""
   title: "Co-fundador numa fintech"
   bio: "Mario Filho atua desde 2014 em projetos de data science para empresas. Premiado em cinco competições internacionais de machine learning. Atualmente trabalha como co-fundador em uma FinTech, e publica conteúdo sobre data science em https://www.youtube.com/c/MarioFilhoML."
-  thumbnailUrl: MarioFilho.png
+  thumbnailUrl: MarioFilho.jpeg
   rockstar: true
   ribbon: 
     - {abbr: "KGM", title: "Kaggle Grandmaster", url: "https://developers.google.com/experts/"}
@@ -116,6 +116,19 @@
 # Alana Correia
 -
   id: 109
+  name: "Alana"
+  surname: "Correia"
+  company: "Unicamp"
+  title: "Aluna de Doutorado"
+  bio: "Graduada em Engenharia de Computação pela Universidade Federal de Sergipe (2011-2015). Mestre em Engenharia Elétrica pela mesma instituição na área de Atenção Visual. Atualmente doutoranda em Ciência da Computação pela Universidade Estadual de Campinas (Unicamp) realizando pesquisas na área de atenção em deep learning e robótica, com ênfase em aprendizado por imitação e aprendizado por reforço."
+  thumbnailUrl: AlanaCorreia.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/alana-santana-401624128" }
+
+# Letícia Pedroso TEST
+-
+  id: 110
   name: "Alana"
   surname: "Correia"
   company: "Unicamp"
