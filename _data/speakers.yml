@@ -129,15 +129,15 @@
 # Letícia Pedroso TEST
 -
   id: 110
-  name: "Alana"
-  surname: "Correia"
-  company: "Unicamp"
-  title: "Aluna de Doutorado"
-  bio: "Graduada em Engenharia de Computação pela Universidade Federal de Sergipe (2011-2015). Mestre em Engenharia Elétrica pela mesma instituição na área de Atenção Visual. Atualmente doutoranda em Ciência da Computação pela Universidade Estadual de Campinas (Unicamp) realizando pesquisas na área de atenção em deep learning e robótica, com ênfase em aprendizado por imitação e aprendizado por reforço."
+  name: "Letícia"
+  surname: "Pedroso"
+  company: "Everis Brasil"
+  title: "Data Scientist e Coordenadora de Comunidades"
+  bio: ""
   thumbnailUrl: AlanaCorreia.jpeg
   rockstar: false
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/alana-santana-401624128" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/leticiaspedroso" }
 
 ## Letícia Pedroso
 #-
