@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/schedule/", text: "Grade"}
-#  - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
