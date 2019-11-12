@@ -6,7 +6,7 @@
   company: ""
   title: "Co-fundador numa fintech"
   bio: "Mario Filho atua desde 2014 em projetos de data science para empresas. Premiado em cinco competições internacionais de machine learning. Atualmente trabalha como co-fundador em uma FinTech, e publica conteúdo sobre data science em https://www.youtube.com/c/MarioFilhoML."
-  thumbnailUrl: MarioFilho.png
+  thumbnailUrl: MarioFilho.jpeg
   rockstar: true
   ribbon: 
     - {abbr: "KGM", title: "Kaggle Grandmaster", url: "https://developers.google.com/experts/"}
@@ -94,7 +94,7 @@
   company: "Dextra"
   title: "Cientista de Dados"
   bio: "Cientista desde os 3 anos e fazendo projetos científicos desde os 14, atuo hoje como cientista de dados na Dextra. Sou uma pessoa curiosa, que ama aprender, criar, conversar e surfar."
-  thumbnailUrl: GabiBatista.jpeg
+  thumbnailUrl: GabiBatista.png
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/gabriela-nery-batista" }
@@ -108,7 +108,7 @@
   company: "Nubank"
   title: "Cientista de Dados"
   bio: "Cientista de Dados no Nubank"
-  thumbnailUrl: SilvanoFilho.png
+  thumbnailUrl: SilvanoFilho.jpg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/silvarjf" }
@@ -133,7 +133,7 @@
   surname: "Pedroso"
   company: "Everis Brasil"
   title: "Data Scientist e Coordenadora de Comunidades"
-  bio: "Data Scientist na Everis Brasil, Instrutora de Lógica de Programação e Inteligência Artificial no Sesc São Paulo, coordenadora da comunidade Developers-BR na frente feminina de Inteligência Artificial com o projeto "E AI, Girls", coordenadora da comunidade Nerdzão/Nerdgirlz, entusiasta de Computer Vision, apaixonada por animais comunidades e compartilhamento de conhecimento."
+  bio: "Data Scientist na Everis Brasil, Instrutora de Lógica de Programação e Inteligência Artificial no Sesc São Paulo, coordenadora da comunidade Developers-BR na frente feminina de Inteligência Artificial com o projeto 'E AI, Girls', coordenadora da comunidade Nerdzão/Nerdgirlz, entusiasta de Computer Vision, apaixonada por animais comunidades e compartilhamento de conhecimento."
   thumbnailUrl: LeticiaPedroso.jpg
   rockstar: false
   social:
@@ -176,7 +176,7 @@
   company: "Google Cloud"
   title: "Data/ML Engineer"
   bio: "Engenheiro de Dados e Machine Learning em Google Cloud, formado em Engenharia de Computação pela Poli-USP, com mestrado em Ciência da Computação pelo IME-USP."
-  thumbnailUrl: CristianoBreuel.png
+  thumbnailUrl: CristianoBreuel.jpeg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-breuel-59b516" }
@@ -202,7 +202,7 @@
   company: "Daitan"
   title: "Machine Learning Engineer"
   bio: " Sou Expert em Dados, apaixonado por aprender, com 13 anos de experiência na área e com expertise em Engenharia de Dados, Ciência de Dados, Bancos de Dados Relacionais, Bancos de Dados NoSQL. Também tenho experiência em Metodologias Ágeis em projetos nacionais e internacionais."
-  thumbnailUrl: FelipePereira.png
+  thumbnailUrl: FelipePereira.jpeg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/pereira-felipe" }
@@ -228,7 +228,7 @@
   company: ""
   title: "Head de Engenharia de Dados e ML"
   bio: "iFood"
-  thumbnailUrl: IvanLima.png
+  thumbnailUrl: IvanLima.jpeg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/ivanlima1" }
@@ -254,7 +254,7 @@
   company: "Cluster"
   title: "Head of Information Design"
   bio: "Graduado em Arquitetura e Pós-Graduado em Design Estratégico. Tem experiência de mais de 15 anos no desenvolvimento de interfaces digitais. Fundador da Cluster, idealizador e instrutor dos cursos oferecidos pela empresa na área de Dataviz, também é responsável por garantir a qualidade das entregas dos projetos de design de painéis de Business Intelligence realizados pela empresa."
-  thumbnailUrl: ThiagoPessato.png
+  thumbnailUrl: ThiagoPessato.jpg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/thiagopessato" }
@@ -267,7 +267,7 @@
   company: "Sympla"
   title: "UX Researcher"
   bio: "Thaís Falabella é formada em Design de Produto e mestre em Design, Inovação e Sustentabilidade pela UEMG. Trabalha com inovação, empreendedorismo e design. Atualmente é UX Researcher, na Sympla, professora no ensino superior de design do INAP,  além de ser Community Leader do InovAtiva Brasil e Líder Local do IxDA. Foi corresponsável pela implementação e liderança do Setor de Experiência do Usuário (UX) na PUC Minas Virtual, mentora de design de negócios na Mooca e trabalhou como Agente Local de Inovação no SEBRAE."
-  thumbnailUrl: ThaisFalabella .png
+  thumbnailUrl: ThaisFalabella.png
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/thaisfalabella" }
@@ -279,11 +279,24 @@
   surname: "Pierre"
   company: "Sympla"
   title: "UX Researcher"
-  bio: ""
+  bio: "Atualmente UX Researcher na Sympla. Possuí mais de 7 anos de experiência em práticas de UX, pesquisa e análise de dados com foco em produtos digitais. Frequentou a Pós Graduação em Design de Interação da PUC-MG."
   thumbnailUrl: AlanPierre.jpeg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/alanpr" }
+
+# Felipe Antunes 
+-
+  id: 306
+  name: "Felipe"
+  surname: "Antunes"
+  company: "Lendico"
+  title: "Chief Data Scientist"
+  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
+  thumbnailUrl: FelipeAntunes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
 
 # Gabriel Moreira
 -
@@ -308,10 +321,10 @@
   company: "ASN.Rocks"
   title: "Jedi em Analytics"
   bio: "Adriana Silva é formada em estatística pela UNESP Presidente Prudente, mestre em estatística na ESALQ/USP. Já trabalhou em empresas como SAS, Oracle, Abril e Kantar. Atualmente é Jedi em Analytics na ASN.Rocks (www.asn.rocks), professora na FGV, EGG, SAS e está como Presidente do Conselho regional de estatística, da região de São Paulo (Conre-3)!"
-  thumbnailUrl: DriSilva.jpeg
+  thumbnailUrl: DriSilva.png
   rockstar: false
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }  
 
 # - 
 #   id: 99

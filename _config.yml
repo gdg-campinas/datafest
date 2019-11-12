@@ -48,7 +48,7 @@ c4mentorUrl: "<mentor>"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Grade"}
+ - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}
@@ -177,14 +177,14 @@ ticketsOffers:
   name: "Workshops 10/12"
   price: "150,00"
   priceCurrency: "R$"
-  ticketsNumber: "120"
+  ticketsNumber: "60"
   # ribbon: "-20%"
   # featured: true
   buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/10/2019T00:00"
+  validFrom: "11/11/2019T00:00"
   validThrough: "10/12/2019T23:59"
   disabled: false
   soldOut: false
@@ -201,9 +201,9 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "11/09/2019T00:00"
-  validThrough: "11/10/2019T23:59"
+  validThrough: "25/10/2019T23:59"
   disabled: false
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
  -
   name: "Conferência 11/12 <br> Early Bird Estudante"
@@ -217,9 +217,9 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "11/09/2019T00:00"
-  validThrough: "11/10/2019T23:59"
+  validThrough: "25/10/2019T23:59"
   disabled: false
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
  -
   name: "Conferência 11/12 <br> Normal Bird"
@@ -232,9 +232,9 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/10/2019T00:00"
-  validThrough: "11/11/2019T23:59"
-  disabled: true
+  validFrom: "25/10/2019T00:00"
+  validThrough: "25/11/2019T23:59"
+  disabled: false
   soldOut: false
   soldOutText: "Esgotado"
  -
@@ -248,9 +248,9 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/10/2019T00:00"
-  validThrough: "11/11/2019T23:59"
-  disabled: true
+  validFrom: "25/10/2019T00:00"
+  validThrough: "25/11/2019T23:59"
+  disabled: false
   soldOut: false
   soldOutText: "Esgotado"
  -
@@ -264,7 +264,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/11/2019T00:00"
+  validFrom: "25/11/2019T00:00"
   validThrough: "11/12/2019T23:59"
   disabled: true
   soldOut: false
@@ -280,7 +280,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/11/2019T00:00"
+  validFrom: "25/11/2019T00:00"
   validThrough: "11/12/2019T23:59"
   disabled: true
   soldOut: false

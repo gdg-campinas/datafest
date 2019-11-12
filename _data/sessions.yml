@@ -44,7 +44,7 @@
 -
   id: 101
   title: "As 5 Etapas que Garantem o Sucesso de um Projeto de Data Science"
-  description: ""
+  description: "A consultoria Gartner estimou que de cada 100 projetos de data science, 85 ficam abaixo das expectativas. A falta de clareza dos passos necessários para executar um projeto com sucesso prejudica o planejamento, causa atrasos nas entregas, e inflaciona as expectativas. Como garantir que o seu projeto esteja entre os 15 que causam impacto positivo em sua empresa?"
   subtype: presentation
   speakers: [101]
   complexity: Básico
@@ -53,7 +53,7 @@
 -
   id: 102
   title: "Reinforcement Learning today"
-  description: ""
+  description: "Reinforcement Learning (RL) has been successfully applied in many scenarios for a long time. However, it was only the past couple of years that we saw breakthroughs related to these paradigms and real-world problems.  In this talk, we are going to discuss how RL can help to solve the ML pipeline."
   subtype: presentation
   speakers: [102]
   complexity: Intermediário
@@ -62,7 +62,7 @@
 -
   id: 103
   title: "(De)Construindo Vieses em Bases de Dados"
-  description: ""
+  description: "Todos os conjuntos de dados contêm vieses, geralmente não intencionais, devido à forma como foram adquiridos e anotados. Esses vieses distorcem o desempenho dos modelos de aprendizado de máquina, criando correlações espúrias que os modelos podem explorar injustamente ou destruindo contrariamente correlações convincentes que os modelos poderiam aprender. Nesta apresentação, vamos explorar experimentos que revelam ambos os tipos de vieses, positivos e negativos, nos conjuntos de dados de lesões de pele. Nossos resultados mostram que os modelos podem classificar corretamente imagens de lesões de pele sem informações clinicamente significativas: perturbadoramente, o modelo de aprendizado de máquina aprendido sobre imagens onde não há informações sobre a lesão apresenta uma precisão acima do benchmark de IA curado com o desempenho de dermatologistas. Nossas principais descobertas aumentam a conscientização sobre as limitações de modelos treinados e avaliados em pequenos conjuntos de dados, como os que avaliamos, e podem sugerir diretrizes futuras para modelos destinados à implantação no mundo real. (Não será essa descrição a ser divulgada.)"
   subtype: presentation
   speakers: [103]
   complexity: Intermediário
@@ -71,7 +71,7 @@
 -
   id: 104
   title: "Explicabilidade em Machine Learning: isso existe?"
-  description: ""
+  description: "Essa palestra mostra de forma sucinta modelos matemáticos de aproximação, como o LIME e Shapley Values, e ferramentas para interpretabilidade, como o What If Tool, que descrevem como os modelos de ML fazem as previsões e como os datapoints de um conjunto de dados se relacionam. Você vai entender a importância da explicabilidade, alguns métodos existentes, e como é possível melhorar seus modelos em técnica e impacto ao incluir essas atividades no seu pipeline de Data Science."
   subtype: presentation
   speakers: [104]
   complexity: Avançado
@@ -80,7 +80,7 @@
 -
   id: 105
   title: "Deep Learning no mundo real: muito além do MNIST"
-  description: ""
+  description: "Alerta de Spoiler: essa palestra terá sistemas de Deep Learning rodando ao vivo! Durante essa apresentação, você vai descobrir como eu me tornei um Engenheiro de Machine Learning. Além disso, você verá os problemas do mundo real que eu já trabalhei e como eu resolvi eles aplicando Machine Learning e Deep Learning. Hoje, alguns dos meus modelos em produção são responsáveis por avaliar mais de 2,2 milhões de imagens por mês. Ao final da palestra, dicas para quem também quer fazer o mesmo ou apenas aprender mais sobre Deep Learning também serão dadas."
   subtype: presentation
   speakers: [105]
   complexity: Básico
@@ -89,7 +89,7 @@
 -
   id: 106
   title: "ML na sala de aula: como a IA está mudando a educação em todo o mundo"
-  description: ""
+  description: "Dados gerados por meio do monitoramento diário de alunos e professores, tanto em ambientes tradicionais de aprendizagem quanto em e-learning, podem ser utilizados para se projetar melhorias relacionadas à educação, como a melhor recomendação de materiais didáticos, criação de planos de estudo personalizados e até gerar previsões sobre o desempenho dos alunos, por exemplo, evitando a evasão dos estudantes. Todas essas tarefas foram atacadas por algoritmos de Aprendizado de Máquina de última geração. Nesta apresentação, teremos uma experiência imersiva com alguns desses projetos e algoritmos, de modo que possamos visualizar o que vem a seguir."
   subtype: presentation
   speakers: [106]
   complexity: Todos
@@ -98,7 +98,7 @@
 -
   id: 107
   title: "Construção de recomendadores baseados em conteúdo para análise de proposições da Câmara dos Deputados"
-  description: ""
+  description: "Nessa talk falarei sobre como podemos montar um recomendador content-based, utilizando Redes Neurais, que leva em conta informações sobre o conteúdo a ser recomendado, como descrição, resumo e tema, e como isso pode ser utilizado para análise do panorama das proposições que tramitaram na Câmara dos Deputados nos últimos anos."
   subtype: presentation
   speakers: [107]
   complexity: Intermediário
@@ -107,7 +107,7 @@
 -
   id: 108
   title: "fklearn - Nubank's Machine Learning Library"
-  description: ""
+  description: "fklearn é um pacote open source de machine learning desenvolvido no Nubank que usa princípios de programação funcional pra tornar mais fácil resolver problemas reais de Machine Learning."
   subtype: presentation
   speakers: [108]
   complexity: Intermediário
@@ -116,7 +116,7 @@
 -
   id: 109
   title: "Atenção em Deep Learning"
-  description: ""
+  description: "Deep Learning é uma área de grande interesse tanto na indústria como na academia. Os resultados trazidos pelos métodos de aprendizagem profunda fazem com essa área seja cada vez mais impulsionada por esses dois setores e faz com que eles trabalhem juntos em busca de resultados mais promissores. Com o objetivo de evoluir e melhorar ainda mais as redes neurais profundas os pesquisadores estão buscando inspiração no mecanismo biológico dos seres vivos conhecido como atenção. Apenas em 4 anos de existência dessa nova abordagem já existem aproximadamente 4 mil papers abordando o assunto e trazendo novas arquiteturas de rede neural. A atenção nessas redes é tida como o mecanismo que proporcionará a próxima evolução das redes neurais profundas."
   subtype: presentation
   speakers: [109]
   complexity: Intermediário
@@ -125,7 +125,7 @@
 -
   id: 110
   title: "Text Generation além do Lorem ipsum"
-  description: ""
+  description: "Lorem ipsum é um famoso 'gerador de textos' utilizado por desenvolvedores e designers para preencher espaços e testar aspectos visuais como cores, fontes etc. Porém em seu desenvolvimento ele apenas faz uma busca de partes de textos já existentes. Nesta palestra vamos entender como criar um gerador de textos com inteligência artificial, quais são os diferentes algoritmos possíveis, suas problemáticas e como preparar seu dataset."
   subtype: presentation
   speakers: [110]
   complexity: Intermediário
@@ -134,52 +134,64 @@
 -
   id: 201
   title: "Diferentes abordagens e arquiteturas de referência para Data Analytics no Google Cloud"
-  description: ""
+  description: "Sinta-se convidado a participar de uma consultoria de 50 minutos na qual irei apresentar uma série de abordagens diferentes para migrar seu Data Lake/Warehouse de outros provedores ou mesmo do próprio data-center para o GCP, levando em consideração diversos requisitos como real-time processing, durabilidade e disponibilidade, baixa latência de rede, segurança, escalabilidade, custos e outros. Veremos também como 'massagear' os dados após terem sido ingeridos, para fins como data cleansing, masquerading, pre/post-processing e obter insights por meio de ferramentas de visualização e até fazendo uso de algoritmos de machine learning/AI. Não saia com dúvidas, participe fazendo perguntas!"
   subtype: presentation
   speakers: [201]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Pedro Lelis
 -
   id: 202
   title: "TensorFlow Extended: End-to-end platform for deploying production ML pipelines"
-  description: ""
+  description: "TFX  é um conjunto de bibliotecas projetado especificamente para implementar pipelines de ML escaláveis ​​e de alto desempenho. Nesta talk será abordado as seguinte bibliotecas:
+  * TensorFlow Data Validation (TFDV) utilizada para entender, validar e monitorar os dados;
+  * TensorFlow Transform (TFT) utilizada para tokenização e stemming de texto, geração de vocabulários e execução de operações numéricas como normalização;
+  * TensorFlow Model Analysis (TFMA) utilizada para calcular e visualizar métricas a fim de garantir desempenho de qualidade em todas as fatias relevantes do conjunto de dados."
   subtype: presentation
   speakers: [202]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Cristiano Breuel
 -
   id: 203
   title: "O que é ML Ops?"
-  description: ""
+  description: "Para que um modelo de Machine Learning gere bons resultados no mundo real, que está em constante evolução, é preciso garantir que o treinamento e ativação do modelo sejam reproduzíveis, confiáveis e com performance consistente. Esse é o objetivo da disciplina de ML Ops, que busca trazer para o mundo de ML os benefícios que DevOps já trouxe para o mundo do desenvolvimento de software tradicional, levando em conta as diferenças entre esses dois paradigmas. Falaremos dos conceitos, processos e ferramentas que permitem a adoção de ML Ops em uma organização que quer obter valor efetivo de seu investimento em Machine Learning."
   subtype: presentation
   speakers: [203]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Waldecir Junior
 -
   id: 204
   title: "Data Quality: como podemos aplicar em ambientes de Big Data"
-  description: ""
+  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema 'Data Quality' em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
   subtype: presentation
   speakers: [204]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Felipe Pereira
 -
   id: 205
   title: "[Data Lake + Arquitetura Lambda] na prática"
-  description: ""
+  description: "Armazenar, catalogar e processar grandes quantidades de dados exigem novas ferramentas e novos processos. Nesta apresentação, mostraremos o conceito (e a prática) de como realizar estas ações de maneira moderna, modular e escalável, utilizando um Data Lake e a Arquitetura Lambda."
   subtype: presentation
   speakers: [205]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
+
+# Painel Profissionais
+-
+  id: 206
+  title: "Painel Profissionais de Dados"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: Básico
 
 # Weslley Patrocinio
 -
   id: 301
   title: "Como planejar e estimar o impacto de AI nas metas de sua empresa"
-  description: ""
+  description: "Em tempos de iniciativas data-driven, os planejamentos estratégicos de curto e longo prazo exigem estimativas das iniciativas a serem investidas ao longo do ano. Nesta conversa eu compartilharei algumas experiência em como estimar e medir tais impactos em sua empresa."
   subtype: presentation
   speakers: [301]
   complexity: Intermediário
@@ -188,216 +200,100 @@
 -
   id: 302
   title: "Dados no iFood: Passado, Presente e Futuro"
-  description: ""
+  description: "O time de dados do iFood nasceu em 2016, e de lá para cá tomou várias formas, com diferentes papéis, responsabilidades e processos. Foram muitos aprendizados ao longo do caminho, sempre com o objetivo de estruturar um time de dados que impacta e gera valor diretamente ao negócio. Como fazer isso na escala do iFood?"
   subtype: presentation
   speakers: [302]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Diego Senise
 -
   id: 303
   title: "Como Data Science está transformando o investimento em comunicação e mídia nas empresas?"
-  description: ""
+  description: "Um dos principais desafios dos líderes, seja de grandes empresas ou startups, é a definição de seus investimentos em comunicação e mídia. Saiba como a ciência de dados está trazendo eficácia e assertividade para esse processo e aprenda com os principais insights colhidos a partir de entrevistas com CMOs de grandes anunciantes brasileiros."
   subtype: presentation
   speakers: [303]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thiago Pessato
 -
   id: 304
   title: "UX para Business Intelligence"
-  description: ""
+  description: "Aprenda quais são os principais artefatos de UX, quais são usados na rotina de projetos de BI e como ajudamos empresas a melhorar a eficiência na análise de dados."
   subtype: presentation
   speakers: [304]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thaís Falabella e Alan Pierre
 -
   id: 305
   title: "O papel dos designers na construção de uma cultura data-driven"
+  description: "No início do ano, a Harvard Business Review compartilhou uma pesquisa mostrando que apesar de todo o investimento em tecnologias, 72% das empresas pesquisadas estão falhando em seus esforços para ser tornarem data-driven por falta de uma cultura de dados. Talvez já percebemos isso, não é mesmo? Todos nós temos uma participação na construção dessa cultura. No dia-a-dia de produto, o design acaba sendo um marco no efeito dominó de 'achismos', podendo resultar em interfaces 'sem pé nem cabeça'. Então, qual o papel do design rumo ao tão falado data-driven? Nesta palestra iremos apresentar como, na Sympla, os UXers fazem para fortalecer dentro do time de produto o uso consciente dos dados, reduzindo as incertezas nas nossas decisões em produto. Focaremos em fomentar discussões e compartilhar alguns aprendizados que tivemos nessa empreitada, como: entender a limitação dos dados e lançar o olhar propositivo do design para eles."
+  subtype: presentation
+  speakers: [3050, 3051]
+  complexity: Intermediário
+
+# Felipe Antunes
+-
+  id: 306
+  title: "Data Office from Zero to Hero"
+  description: "O objetivo deste talk é apresentar apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
+  subtype: presentation
+  speakers: [306]
+  complexity: Intermediário
+
+# Painel LGPD
+-
+  id: 307
+  title: "Painel LGPD"
   description: ""
   subtype: presentation
-  speakers: [3050]
-  complexity: Básico Intermediário Avançado Todos
+  speakers: []
+  complexity: Básico
 
-## Keynote Abertura
-#-
-#  id: 401
-#  title: ""
-#  place: ""
-#  subtype: keynote
-#  description: ""
-#  speakers: []
-#
-## Keynote Encerramento
-#-
-#  id: 402
-#  title: ""
-#  place: ""
-#  subtype: keynote
-#  description: ""
-#  speakers: []
+# Keynote Abertura
+-
+ id: 401
+ title: "Keynote Abertura"
+ place: ""
+ subtype: keynote
+ description: "TBD"
+ speakers: []
+
+# Keynote Encerramento
+-
+ id: 402
+ title: "Keynote Encerramento"
+ place: ""
+ subtype: keynote
+ description: "TBD"
+ speakers: []
 
 # Gabriel Moreira
 -
   id: 501
-  title: ""
-  description: ""
+  title: "Deep Recommender Systems na Prática"
+  description: "Neste workshop hands-on, irei demonstrar na prática, do protótipo ao deploy, como implementar sistemas de recomendação utilizando arquiteturas de Deep Learning."
   subtype: presentation
   speakers: [501]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Dri Silva
 -
   id: 502
-  title: ""
-  description: ""
+  title: "E agora, qual modelo é o melhor?"
+  description: "Todo cientista de dados bem preparado conhece e sabe utilizar muitas técnicas de modelagem. Durante o processo de desenvolvimento criar vários modelos e nesse momento se depara com o desafio de escolher apenas um algoritmo para colocar em produção, mas qual modelo escolher? Nesse workshop vamos discutir os propósitos dos modelos e as métricas atreladas a cada propósito. Vamos interagir compartilhando casos reais e mostrar os caminhos abordados para suportar a escolha do melhor modelo! Teremos 90 minutos de muita troca de conhecimento! Não deixe de participar!!!"
   subtype: presentation
   speakers: [502]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Pedro Lelis
 -
   id: 503
-  title: ""
-  description: ""
+  title: "TensorFlow 2.0"
+  description: "Existem várias alterações no TensorFlow 2.0 para tornar os usuários do TensorFlow mais produtivos. O TensorFlow 2.0 remove APIs redundantes, torna as APIs mais consistentes (RNNs unificadas, otimizadores unificados) e se integra melhor ao tempo de execução do Python com a  Eager execution. Este guia apresenta uma visão de como deve ser o desenvolvimento no TensorFlow 2.0."
   subtype: presentation
   speakers: [202]
-  complexity: Básico Intermediário Avançado Todos
-
-
-
-#######
-
-# Diego Nogare
--
-  id: 402
-  title: "Montando um ambiente de Big Data com Spark integrado com R no Azure"
-  description: "Nesta sessão vou apresentar a criação do Apache Spark a partir do zero, instanciando uma máquina no Azure e permitindo a interação com linguagem R, incluindo os mecanismos de Machine Learning integrado com Big Data."
-  subtype: presentation
-  speakers: [005]
-  complexity: Intermediário
-
-# Daniel Cukier
--
-  id: 501
-  title: "Índice de Audiência Musical: o lado científico do programa  SóTocaTop"
-  description: "Índice de Audiência Musical é a composição de várias tecnologias de computação musical, computação em Nuvem e Data Science para consolidar, num único número, o nível de popularidade de artistas, baseando-se em dados de consumo em rádios, TVs e plataformas de streaming. Nessa palestra, contaremos detalhes desse projeto, utilizado pela Rede Globo para a escolha de artistas do programa SóTocaTop."
-  subtype: presentation
-  speakers: [003]
-  complexity: Intermediário
-
-# Alline Oliveira
--
-  id: 502
-  title: "BigQuery/BigData. Programação com propósito"
-  description: "Qual o objetivo maior de suas linhas de código? Você realmente necessita de um Schema forte, inter relacionado, vinculado a chaves inflexíveis? O quão estável está o seu business? Já foi validado e já produz os resultados esperados?"
-  subtype: presentation
-  speakers: [016]
-  complexity: Todos
-
-# Alexandre Ferreira
--
-  id: 901
-  title: "Provenance analysis against fake news"
-  description: "Com o objetivo de recontar uma história a partir de textos, imagens e vídeos, o projeto temático Fapesp DéjàVu reúne diversas técnicas de aprendizado de máquina e visão computacional para organizar e recriar eventos, contando toda a história em diversas perspectivas. Esta palestra foca em provenance analysis, um braço importante do projeto, e como ela pode ser utilizada no combate a fake news."
-  subtype: presentation
-  speakers: [004]
   complexity: Básico
-
-# Cesar Nogueira
--
-  id: 702
-  title: "Vamos falar de pipelines de dados?"
-  description: "Aprenda como a utilizar o Google Dataflow e Google BigQuery para processar seu grande volume de dados juntamente com Dataflow SDK e Apache Beam com uso de cron jobs no Google App Engine de forma a automatizar suas pipelines de dados"
-  subtype: presentation
-  speakers: [011]
-  complexity: Intermediário
-
-# Ahirton Lopes
--
-  id: 801
-  title: "Motores de Recomendação - O que são? Onde vivem? Do que se alimentam?"
-  description: "Um sistema de recomendação é uma espécie de sistema de filtragem de informações que procura prever a \"classificação\" ou \"preferência\" que um determinado usuário dará a um item ou serviço. Hoje em dia eles se tornaram cada vez mais populares e estão presentes nas mais diversas áreas, incluindo filmes, músicas, notícias, livros, artigos de pesquisa, consultas de pesquisa e produtos em geral. 
-Nessa palestra vou mostrar diferentes implementações de sistemas de recomendação em diferentes ferramentas, programando em Python e utilizando ferramentas disponíveis via Google Cloud Plataform (tais como TensorFlow e Cloud Machine Learning Engine), demonstrando diferentes técnicas, trazendo estudos de caso de mundo real tais como recomendação de filmes dentre outros."
-  subtype: presentation
-  speakers: [008]
-  complexity: Todos
-
-# Cristiano dos Santos
--
-  id: 902
-  title: "Conhecendo o Azure HDInsights"
-  description: "Como utilizar o ambiente Azure para processamento de dados utilizando features de Big Data, como Cluster Apache Hadoop, Spark entre outras features."
-  subtype: presentation
-  speakers: [012]
-  complexity: Intermediário
-
-# Felipe Santos
--
-  id: 701
-  title: "Deploy de Modelos de Machine Learning em Arquiteturas Serverless"
-  description: "Como criar, validar e colocar modelos de Machine Learning em produção utilizando arquiteturas serverless na nuvem."
-  subtype: presentation
-  speakers: [014]
-  complexity: Básico
-
-# Flavio Pimenta
--
-  id: 802
-  title: "Aguentando uma enxurrada de requisições com API Gateway + Lambda + Kinesis"
-  description: "O objetivo é abordar a tecnologia serverless em conjunto com um grande volume de requisições e dados. Além disso, mostrar a relação custo x benefício de cada abordagem se faz necessário para que o custo também seja uma preocupação dos Arquitetos e Desenvolvedores ao pensar em uma solução deste porte."
-  subtype: presentation
-  speakers: [010]
-  complexity: Intermediário
-
-# Fernando Ultremare
--
-  id: 1101
-  title: "Big Data Science on Google Cloud"
-  description: "Um panorama das principais ferramentas e o que há de mais  de novo em Data Science/Engineering no Google Cloud"
-  subtype: presentation
-  speakers: [002]
-  complexity: Básico
-
-# Eiti Kimura
--
-  id: 1102
-  title: "Apache Spark Structured Stream: Um moedor de dados em tempo real"
-  description: "Você tem grandes volumes de transações e precisa consolidar essas informações? ou aplicar transformações nesses dados? 
-O Apache Spark através de sua solução de processamento de dados via Structured Stream provê uma API simples para implementar o processamento de dados em \"tempo real\" de forma altamente escalável.
-Nessa apresentação vou mostrar como utilizamos o Structured  Stream para processar mais de 100 milhões de transações de tentativas de tarifação por dia, apresentarei nossa arquitetura  e alguns aspectos que sobre Streams usando Apache Spark que poderão te ajudar na tarefa de trabalhar e transformar grandes volumes de informação."
-  subtype: presentation
-  speakers: [001]
-  complexity: Intermediário
-
-# Gabriel Moreira
--
-  id: 1201
-  title: "Sistemas de Recomendação sem enrolação"
-  description: "Nesta palestra, apresentarei uma introdução prática sobre as principais técnicas de sistemas de recomendação, incluindo arquiteturas recentes baseadas em Deep Learning.
-Serão apresentados exemplos utilizando Python, TensorFlow e Google ML Engine, e fornecidos datasets para exercitarmos um cenário de recomendação de artigos e notícias."
-  subtype: presentation
-  speakers: [009]
-  complexity: Básico
-
-# Hugo Rozestraten
--
-  id: 1202
-  title: "Integrando Machine Learning na ingestão à persistência."
-  description: "Como ferramentas de ingestão e streaming em paralelo podem antecipar análises no Pipeline de Big Data e diminuir a movimentação dos dados após a persistência, garantindo agilidade na aplicação de Modelos de Big Data."
-  subtype: presentation
-  speakers: [006]
-  complexity: Intermediário
-
-# Keynote: closing: Gago
--
-  id: 1301
-  title: "Keynote de Fechamento"
-  place: ""
-  description: ""
-  subtype: keynote
-  speakers: [015]
 
 # -
 #   id: 002
