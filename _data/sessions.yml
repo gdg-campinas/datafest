@@ -125,7 +125,7 @@
 -
   id: 110
   title: "Text Generation além do Lorem ipsum"
-  description: ""
+  description: "Lorem ipsum é um famoso 'gerador de textos' utilizado por desenvolvedores e designers para preencher espaços e testar aspectos visuais como cores, fontes etc. Porém em seu desenvolvimento ele apenas faz uma busca de partes de textos já existentes. Nesta palestra vamos entender como criar um gerador de textos com inteligência artificial, quais são os diferentes algoritmos possíveis, suas problemáticas e como preparar seu dataset."
   subtype: presentation
   speakers: [110]
   complexity: Intermediário
@@ -134,19 +134,22 @@
 -
   id: 201
   title: "Diferentes abordagens e arquiteturas de referência para Data Analytics no Google Cloud"
-  description: ""
+  description: "Sinta-se convidado a participar de uma consultoria de 50 minutos na qual irei apresentar uma série de abordagens diferentes para migrar seu Data Lake/Warehouse de outros provedores ou mesmo do próprio data-center para o GCP, levando em consideração diversos requisitos como real-time processing, durabilidade e disponibilidade, baixa latência de rede, segurança, escalabilidade, custos e outros. Veremos também como "massagear" os dados após terem sido ingeridos, para fins como data cleansing, masquerading, pre/post-processing e obter insights por meio de ferramentas de visualização e até fazendo uso de algoritmos de machine learning/AI. Não saia com dúvidas, participe fazendo perguntas!"
   subtype: presentation
   speakers: [201]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Pedro Lelis
 -
   id: 202
   title: "TensorFlow Extended: End-to-end platform for deploying production ML pipelines"
-  description: "Lorem ipsum é um famoso ""gerador de textos"" utilizado por desenvolvedores e designers para preencher espaços e testar aspectos visuais como cores, fontes etc. Porém em seu desenvolvimento ele apenas faz uma busca de partes de textos já existentes. Nesta palestra vamos entender como criar um gerador de textos com inteligência artificial, quais são os diferentes algoritmos possíveis, suas problemáticas e como preparar seu dataset."
+  description: "TFX  é um conjunto de bibliotecas projetado especificamente para implementar pipelines de ML escaláveis ​​e de alto desempenho. Nesta talk será abordado as seguinte bibliotecas:
+  * TensorFlow Data Validation (TFDV) utilizada para entender, validar e monitorar os dados;
+  * TensorFlow Transform (TFT) utilizada para tokenização e stemming de texto, geração de vocabulários e execução de operações numéricas como normalização;
+  * TensorFlow Model Analysis (TFMA) utilizada para calcular e visualizar métricas a fim de garantir desempenho de qualidade em todas as fatias relevantes do conjunto de dados."
   subtype: presentation
   speakers: [202]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Cristiano Breuel
 -
@@ -155,16 +158,16 @@
   description: "Para que um modelo de Machine Learning gere bons resultados no mundo real, que está em constante evolução, é preciso garantir que o treinamento e ativação do modelo sejam reproduzíveis, confiáveis e com performance consistente. Esse é o objetivo da disciplina de ML Ops, que busca trazer para o mundo de ML os benefícios que DevOps já trouxe para o mundo do desenvolvimento de software tradicional, levando em conta as diferenças entre esses dois paradigmas. Falaremos dos conceitos, processos e ferramentas que permitem a adoção de ML Ops em uma organização que quer obter valor efetivo de seu investimento em Machine Learning."
   subtype: presentation
   speakers: [203]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Waldecir Junior
 -
   id: 204
   title: "Data Quality: como podemos aplicar em ambientes de Big Data"
-  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema ""Data Quality"" em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
+  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema 'Data Quality' em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
   subtype: presentation
   speakers: [204]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Felipe Pereira
 -
@@ -173,7 +176,7 @@
   description: "Armazenar, catalogar e processar grandes quantidades de dados exigem novas ferramentas e novos processos. Nesta apresentação, mostraremos o conceito (e a prática) de como realizar estas ações de maneira moderna, modular e escalável, utilizando um Data Lake e a Arquitetura Lambda."
   subtype: presentation
   speakers: [205]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Painel Profissionais
 -
@@ -200,7 +203,7 @@
   description: "O time de dados do iFood nasceu em 2016, e de lá para cá tomou várias formas, com diferentes papéis, responsabilidades e processos. Foram muitos aprendizados ao longo do caminho, sempre com o objetivo de estruturar um time de dados que impacta e gera valor diretamente ao negócio. Como fazer isso na escala do iFood?"
   subtype: presentation
   speakers: [302]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Diego Senise
 -
@@ -209,7 +212,7 @@
   description: "Um dos principais desafios dos líderes, seja de grandes empresas ou startups, é a definição de seus investimentos em comunicação e mídia. Saiba como a ciência de dados está trazendo eficácia e assertividade para esse processo e aprenda com os principais insights colhidos a partir de entrevistas com CMOs de grandes anunciantes brasileiros."
   subtype: presentation
   speakers: [303]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thiago Pessato
 -
@@ -218,16 +221,16 @@
   description: "Aprenda quais são os principais artefatos de UX, quais são usados na rotina de projetos de BI e como ajudamos empresas a melhorar a eficiência na análise de dados."
   subtype: presentation
   speakers: [304]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thaís Falabella e Alan Pierre
 -
   id: 305
   title: "O papel dos designers na construção de uma cultura data-driven"
-  description: ""
+  description: "No início do ano, a Harvard Business Review compartilhou uma pesquisa mostrando que apesar de todo o investimento em tecnologias, 72% das empresas pesquisadas estão falhando em seus esforços para ser tornarem data-driven por falta de uma cultura de dados. Talvez já percebemos isso, não é mesmo? Todos nós temos uma participação na construção dessa cultura. No dia-a-dia de produto, o design acaba sendo um marco no efeito dominó de 'achismos', podendo resultar em interfaces 'sem pé nem cabeça'. Então, qual o papel do design rumo ao tão falado data-driven? Nesta palestra iremos apresentar como, na Sympla, os UXers fazem para fortalecer dentro do time de produto o uso consciente dos dados, reduzindo as incertezas nas nossas decisões em produto. Focaremos em fomentar discussões e compartilhar alguns aprendizados que tivemos nessa empreitada, como: entender a limitação dos dados e lançar o olhar propositivo do design para eles."
   subtype: presentation
   speakers: [3050, 3051]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Felipe Antunes
 -
