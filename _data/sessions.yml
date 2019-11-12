@@ -1,30 +1,39 @@
 -
+  id: 999
+  title: "idem"
+  place: ""
+  subtype: presentation
+  service: true
+  description: ""
+
+-
   id: 000
   title: "A definir"
   place: ""
   subtype: presentation
+  service: true
   description: ""
 
 -
   id: 001
   title: "Credenciamento"
-  place: ""
+  place: "Hall - Centro de Convenções"
   service: true
   description: ""
 
 -
   id: 002
+  title: "Coffee"
+  place: "Hall - Centro de Convenções"
+  service: true
+  description: "Momento para networking"
+
+-
+  id: 003
   title: "Apresentação GDG Campinas + Informações"
   place: ""
   service: true
   description: ""
-
--
-  id: 003
-  title: "Coffee"
-  place: ""
-  service: true
-  description: "Momento para networking"
 
 -
   id: 004
@@ -38,6 +47,22 @@
   title: "Encerramento"
   place: ""
   service: true
+  description: ""
+
+-
+  id: 006
+  title: "Keynote de abertura"
+  place: ""
+  service: true
+  subtype: keynote
+  description: ""
+
+-
+  id: 007
+  title: "Keynote de encerramento"
+  place: ""
+  service: true
+  subtype: keynote
   description: ""
 
 # Mario Filho
@@ -137,7 +162,7 @@
   description: ""
   subtype: presentation
   speakers: [201]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário 
 
 # Pedro Lelis
 -
@@ -146,7 +171,7 @@
   description: ""
   subtype: presentation
   speakers: [202]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Cristiano Breuel
 -
@@ -155,7 +180,7 @@
   description: ""
   subtype: presentation
   speakers: [203]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Waldecir Junior
 -
@@ -164,7 +189,7 @@
   description: ""
   subtype: presentation
   speakers: [204]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Felipe Pereira
 -
@@ -173,7 +198,7 @@
   description: ""
   subtype: presentation
   speakers: [205]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Weslley Patrocinio
 -
@@ -191,7 +216,7 @@
   description: ""
   subtype: presentation
   speakers: [302]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 # Diego Senise
 -
@@ -200,7 +225,7 @@
   description: ""
   subtype: presentation
   speakers: [303]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thiago Pessato
 -
@@ -209,7 +234,7 @@
   description: ""
   subtype: presentation
   speakers: [304]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Todos
 
 # Thaís Falabella e Alan Pierre
 -
@@ -218,7 +243,7 @@
   description: ""
   subtype: presentation
   speakers: [3050]
-  complexity: Básico Intermediário Avançado Todos
+  complexity: Intermediário
 
 ## Keynote Abertura
 #-
@@ -263,6 +288,33 @@
   description: ""
   subtype: presentation
   speakers: [202]
+  complexity: Básico
+
+# Felipe Antunes
+-
+  id: 504
+  title: "Data Office from Zero to Hero"
+  description: ""
+  subtype: presentation
+  speakers: [504]
+  complexity: Intermediário
+
+# Painel LGPD
+-
+  id: 800
+  title: "Painel LGPD"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: Básico
+
+# Painel Profissionais
+-
+  id: 801
+  title: "Painel Profissionais de Dados"
+  description: ""
+  subtype: presentation
+  speakers: []
   complexity: Básico
 
 # -

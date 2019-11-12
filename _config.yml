@@ -48,7 +48,7 @@ c4mentorUrl: "<mentor>"
 navigationLinks:
  - {permalink: "/", text: "Principal"}
 #  - {permalink: "/blog/", text: "Blog"}
-#  - {permalink: "/schedule/", text: "Grade"}
+ - {permalink: "/schedule/", text: "Grade"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Time"}
 #  - {permalink: "/logistics/", text: "Logistics"}

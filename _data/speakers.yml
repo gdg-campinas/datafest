@@ -313,6 +313,21 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }
 
+# Dri Silva
+-
+  id: 504
+  name: "Felipe"
+  surname: "Antunes"
+  company: "Lendico"
+  title: "Chief Data Scientist"
+  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
+  thumbnailUrl: FelipeAntunes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
+
+  
+
 # - 
 #   id: 99
 #   name: "Mateusz"
