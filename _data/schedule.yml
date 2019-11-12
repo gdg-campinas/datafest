@@ -6,8 +6,11 @@
     - {title: "Workshops", color: "#56D3B4"}
   timeslots:
     - { startTime: "09:00", endTime: "10:30", sessionIds: [501] }
+    - { startTime: "10:30", endTime: "11:00", sessionIds: [003] } # Coffee
     - { startTime: "11:00", endTime: "12:30", sessionIds: [502] }
+    - { startTime: "12:30", endTime: "13:30", sessionIds: [004] } # Almoço
     - { startTime: "13:30", endTime: "15:00", sessionIds: [503] }
+    - { startTime: "15:00", endTime: "15:30", sessionIds: [003] } # Coffee
     - { startTime: "15:30", endTime: "17:00", sessionIds: [000] } 
 
 - 
@@ -18,22 +21,22 @@
     - {title: "Engineering", color: "#03A9F4"}
     - {title: "Business", color: "#E32F35"}
   timeslots:
-    - { startTime: "08:30", endTime: "09:30", sessionIds: [001] } 
-    - { startTime: "09:00", endTime: "09:30", sessionIds: [002] }
-    - { startTime: "09:30", endTime: "09:40", sessionIds: [003] }
-    - { startTime: "09:40", endTime: "10:00", sessionIds: [006] }
+    - { startTime: "08:30", endTime: "09:00", sessionIds: [001] } # Credenciamento
+    - { startTime: "09:00", endTime: "09:30", sessionIds: [003] } # Coffee
+    - { startTime: "09:30", endTime: "09:40", sessionIds: [002] } # Apresentação GDG Campinas + Informações
+    - { startTime: "09:40", endTime: "10:00", sessionIds: [401] } # Keynote Abertura
     - { startTime: "10:00", endTime: "11:00", sessionIds: [105, 201, 302] } 
     - { startTime: "11:00", endTime: "11:30", sessionIds: [107, 205, 301] }
     - { startTime: "11:30", endTime: "12:00", sessionIds: [104, 202, 304] }
-    - { startTime: "12:00", endTime: "13:00", sessionIds: [004] } #Almoço
+    - { startTime: "12:00", endTime: "13:00", sessionIds: [004] } # Almoço
     - { startTime: "13:00", endTime: "13:20", sessionIds: [110, 204, 307] }
     - { startTime: "13:20", endTime: "13:30", sessionIds: [109, 999, 999] }
     - { startTime: "13:30", endTime: "13:40", sessionIds: [999, 203, 999] }
     - { startTime: "13:40", endTime: "14:00", sessionIds: [108, 999, 999] }
     - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 206, 303] } 
     - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 999, 999] } 
-    - { startTime: "15:00", endTime: "15:30", sessionIds: [002] } 
+    - { startTime: "15:00", endTime: "15:30", sessionIds: [003] } # Coffee
     - { startTime: "15:30", endTime: "16:00", sessionIds: [103, 000, 305] } 
     - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 000, 306] } 
-    - { startTime: "16:30", endTime: "16:50", sessionIds: [007] } 
-    - { startTime: "16:50", endTime: "17:00", sessionIds: [005] } 
+    - { startTime: "16:30", endTime: "16:50", sessionIds: [402] } # Keynote Encerramento
+    - { startTime: "16:50", endTime: "17:00", sessionIds: [005] } # Encerramento
