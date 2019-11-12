@@ -279,11 +279,24 @@
   surname: "Pierre"
   company: "Sympla"
   title: "UX Researcher"
-  bio: ""
+  bio: "Atualmente UX Researcher na Sympla. Possuí mais de 7 anos de experiência em práticas de UX, pesquisa e análise de dados com foco em produtos digitais. Frequentou a Pós Graduação em Design de Interação da PUC-MG."
   thumbnailUrl: AlanPierre.jpeg
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/alanpr" }
+
+# Felipe Antunes 
+-
+  id: 306
+  name: "Felipe"
+  surname: "Antunes"
+  company: "Lendico"
+  title: "Chief Data Scientist"
+  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
+  thumbnailUrl: FelipeAntunes.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
 
 # Gabriel Moreira
 -
@@ -311,22 +324,7 @@
   thumbnailUrl: DriSilva.png
   rockstar: false
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }
-
-# Dri Silva
--
-  id: 504
-  name: "Felipe"
-  surname: "Antunes"
-  company: "Lendico"
-  title: "Chief Data Scientist"
-  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
-  thumbnailUrl: FelipeAntunes.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
-
-  
+    - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }  
 
 # - 
 #   id: 99

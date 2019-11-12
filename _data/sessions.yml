@@ -1,39 +1,30 @@
 -
-  id: 999
-  title: "continuação"
-  place: ""
-  subtype: presentation
-  service: true
-  description: ""
-
--
   id: 000
   title: "A definir"
   place: ""
   subtype: presentation
-  service: true
   description: ""
 
 -
   id: 001
   title: "Credenciamento"
-  place: "Hall - Centro de Convenções"
+  place: ""
   service: true
   description: ""
 
 -
   id: 002
-  title: "Coffee"
-  place: "Hall - Centro de Convenções"
-  service: true
-  description: "Momento para networking"
-
--
-  id: 003
   title: "Apresentação GDG Campinas + Informações"
   place: ""
   service: true
   description: ""
+
+-
+  id: 003
+  title: "Coffee"
+  place: ""
+  service: true
+  description: "Momento para networking"
 
 -
   id: 004
@@ -49,27 +40,11 @@
   service: true
   description: ""
 
--
-  id: 006
-  title: "Keynote de abertura"
-  place: ""
-  service: true
-  subtype: keynote
-  description: ""
-
--
-  id: 007
-  title: "Keynote de encerramento"
-  place: ""
-  service: true
-  subtype: keynote
-  description: ""
-
 # Mario Filho
 -
   id: 101
   title: "As 5 Etapas que Garantem o Sucesso de um Projeto de Data Science"
-  description: ""
+  description: "A consultoria Gartner estimou que de cada 100 projetos de data science, 85 ficam abaixo das expectativas. A falta de clareza dos passos necessários para executar um projeto com sucesso prejudica o planejamento, causa atrasos nas entregas, e inflaciona as expectativas. Como garantir que o seu projeto esteja entre os 15 que causam impacto positivo em sua empresa?"
   subtype: presentation
   speakers: [101]
   complexity: Básico
@@ -78,7 +53,7 @@
 -
   id: 102
   title: "Reinforcement Learning today"
-  description: ""
+  description: "Reinforcement Learning (RL) has been successfully applied in many scenarios for a long time. However, it was only the past couple of years that we saw breakthroughs related to these paradigms and real-world problems.  In this talk, we are going to discuss how RL can help to solve the ML pipeline."
   subtype: presentation
   speakers: [102]
   complexity: Intermediário
@@ -87,7 +62,7 @@
 -
   id: 103
   title: "(De)Construindo Vieses em Bases de Dados"
-  description: ""
+  description: "Todos os conjuntos de dados contêm vieses, geralmente não intencionais, devido à forma como foram adquiridos e anotados. Esses vieses distorcem o desempenho dos modelos de aprendizado de máquina, criando correlações espúrias que os modelos podem explorar injustamente ou destruindo contrariamente correlações convincentes que os modelos poderiam aprender. Nesta apresentação, vamos explorar experimentos que revelam ambos os tipos de vieses, positivos e negativos, nos conjuntos de dados de lesões de pele. Nossos resultados mostram que os modelos podem classificar corretamente imagens de lesões de pele sem informações clinicamente significativas: perturbadoramente, o modelo de aprendizado de máquina aprendido sobre imagens onde não há informações sobre a lesão apresenta uma precisão acima do benchmark de IA curado com o desempenho de dermatologistas. Nossas principais descobertas aumentam a conscientização sobre as limitações de modelos treinados e avaliados em pequenos conjuntos de dados, como os que avaliamos, e podem sugerir diretrizes futuras para modelos destinados à implantação no mundo real. (Não será essa descrição a ser divulgada.)"
   subtype: presentation
   speakers: [103]
   complexity: Intermediário
@@ -96,7 +71,7 @@
 -
   id: 104
   title: "Explicabilidade em Machine Learning: isso existe?"
-  description: ""
+  description: "Essa palestra mostra de forma sucinta modelos matemáticos de aproximação, como o LIME e Shapley Values, e ferramentas para interpretabilidade, como o What If Tool, que descrevem como os modelos de ML fazem as previsões e como os datapoints de um conjunto de dados se relacionam. Você vai entender a importância da explicabilidade, alguns métodos existentes, e como é possível melhorar seus modelos em técnica e impacto ao incluir essas atividades no seu pipeline de Data Science."
   subtype: presentation
   speakers: [104]
   complexity: Avançado
@@ -105,7 +80,7 @@
 -
   id: 105
   title: "Deep Learning no mundo real: muito além do MNIST"
-  description: ""
+  description: "Alerta de Spoiler: essa palestra terá sistemas de Deep Learning rodando ao vivo! Durante essa apresentação, você vai descobrir como eu me tornei um Engenheiro de Machine Learning. Além disso, você verá os problemas do mundo real que eu já trabalhei e como eu resolvi eles aplicando Machine Learning e Deep Learning. Hoje, alguns dos meus modelos em produção são responsáveis por avaliar mais de 2,2 milhões de imagens por mês. Ao final da palestra, dicas para quem também quer fazer o mesmo ou apenas aprender mais sobre Deep Learning também serão dadas."
   subtype: presentation
   speakers: [105]
   complexity: Básico
@@ -114,7 +89,7 @@
 -
   id: 106
   title: "ML na sala de aula: como a IA está mudando a educação em todo o mundo"
-  description: ""
+  description: "Dados gerados por meio do monitoramento diário de alunos e professores, tanto em ambientes tradicionais de aprendizagem quanto em e-learning, podem ser utilizados para se projetar melhorias relacionadas à educação, como a melhor recomendação de materiais didáticos, criação de planos de estudo personalizados e até gerar previsões sobre o desempenho dos alunos, por exemplo, evitando a evasão dos estudantes. Todas essas tarefas foram atacadas por algoritmos de Aprendizado de Máquina de última geração. Nesta apresentação, teremos uma experiência imersiva com alguns desses projetos e algoritmos, de modo que possamos visualizar o que vem a seguir."
   subtype: presentation
   speakers: [106]
   complexity: Todos
@@ -123,7 +98,7 @@
 -
   id: 107
   title: "Construção de recomendadores baseados em conteúdo para análise de proposições da Câmara dos Deputados"
-  description: ""
+  description: "Nessa talk falarei sobre como podemos montar um recomendador content-based, utilizando Redes Neurais, que leva em conta informações sobre o conteúdo a ser recomendado, como descrição, resumo e tema, e como isso pode ser utilizado para análise do panorama das proposições que tramitaram na Câmara dos Deputados nos últimos anos."
   subtype: presentation
   speakers: [107]
   complexity: Intermediário
@@ -132,7 +107,7 @@
 -
   id: 108
   title: "fklearn - Nubank's Machine Learning Library"
-  description: ""
+  description: "fklearn é um pacote open source de machine learning desenvolvido no Nubank que usa princípios de programação funcional pra tornar mais fácil resolver problemas reais de Machine Learning."
   subtype: presentation
   speakers: [108]
   complexity: Intermediário
@@ -141,7 +116,7 @@
 -
   id: 109
   title: "Atenção em Deep Learning"
-  description: ""
+  description: "Deep Learning é uma área de grande interesse tanto na indústria como na academia. Os resultados trazidos pelos métodos de aprendizagem profunda fazem com essa área seja cada vez mais impulsionada por esses dois setores e faz com que eles trabalhem juntos em busca de resultados mais promissores. Com o objetivo de evoluir e melhorar ainda mais as redes neurais profundas os pesquisadores estão buscando inspiração no mecanismo biológico dos seres vivos conhecido como atenção. Apenas em 4 anos de existência dessa nova abordagem já existem aproximadamente 4 mil papers abordando o assunto e trazendo novas arquiteturas de rede neural. A atenção nessas redes é tida como o mecanismo que proporcionará a próxima evolução das redes neurais profundas."
   subtype: presentation
   speakers: [109]
   complexity: Intermediário
@@ -162,49 +137,58 @@
   description: ""
   subtype: presentation
   speakers: [201]
-  complexity: Intermediário 
+  complexity: Básico Intermediário Avançado Todos
 
 # Pedro Lelis
 -
   id: 202
   title: "TensorFlow Extended: End-to-end platform for deploying production ML pipelines"
-  description: ""
+  description: "Lorem ipsum é um famoso ""gerador de textos"" utilizado por desenvolvedores e designers para preencher espaços e testar aspectos visuais como cores, fontes etc. Porém em seu desenvolvimento ele apenas faz uma busca de partes de textos já existentes. Nesta palestra vamos entender como criar um gerador de textos com inteligência artificial, quais são os diferentes algoritmos possíveis, suas problemáticas e como preparar seu dataset."
   subtype: presentation
   speakers: [202]
-  complexity: Intermediário
+  complexity: Básico Intermediário Avançado Todos
 
 # Cristiano Breuel
 -
   id: 203
   title: "O que é ML Ops?"
-  description: ""
+  description: "Para que um modelo de Machine Learning gere bons resultados no mundo real, que está em constante evolução, é preciso garantir que o treinamento e ativação do modelo sejam reproduzíveis, confiáveis e com performance consistente. Esse é o objetivo da disciplina de ML Ops, que busca trazer para o mundo de ML os benefícios que DevOps já trouxe para o mundo do desenvolvimento de software tradicional, levando em conta as diferenças entre esses dois paradigmas. Falaremos dos conceitos, processos e ferramentas que permitem a adoção de ML Ops em uma organização que quer obter valor efetivo de seu investimento em Machine Learning."
   subtype: presentation
   speakers: [203]
-  complexity: Todos
+  complexity: Básico Intermediário Avançado Todos
 
 # Waldecir Junior
 -
   id: 204
   title: "Data Quality: como podemos aplicar em ambientes de Big Data"
-  description: ""
+  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema ""Data Quality"" em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
   subtype: presentation
   speakers: [204]
-  complexity: Todos
+  complexity: Básico Intermediário Avançado Todos
 
 # Felipe Pereira
 -
   id: 205
   title: "[Data Lake + Arquitetura Lambda] na prática"
-  description: ""
+  description: "Armazenar, catalogar e processar grandes quantidades de dados exigem novas ferramentas e novos processos. Nesta apresentação, mostraremos o conceito (e a prática) de como realizar estas ações de maneira moderna, modular e escalável, utilizando um Data Lake e a Arquitetura Lambda."
   subtype: presentation
   speakers: [205]
-  complexity: Intermediário
+  complexity: Básico Intermediário Avançado Todos
+
+# Painel Profissionais
+-
+  id: 206
+  title: "Painel Profissionais de Dados"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: Básico
 
 # Weslley Patrocinio
 -
   id: 301
   title: "Como planejar e estimar o impacto de AI nas metas de sua empresa"
-  description: ""
+  description: "Em tempos de iniciativas data-driven, os planejamentos estratégicos de curto e longo prazo exigem estimativas das iniciativas a serem investidas ao longo do ano. Nesta conversa eu compartilharei algumas experiência em como estimar e medir tais impactos em sua empresa."
   subtype: presentation
   speakers: [301]
   complexity: Intermediário
@@ -213,28 +197,28 @@
 -
   id: 302
   title: "Dados no iFood: Passado, Presente e Futuro"
-  description: ""
+  description: "O time de dados do iFood nasceu em 2016, e de lá para cá tomou várias formas, com diferentes papéis, responsabilidades e processos. Foram muitos aprendizados ao longo do caminho, sempre com o objetivo de estruturar um time de dados que impacta e gera valor diretamente ao negócio. Como fazer isso na escala do iFood?"
   subtype: presentation
   speakers: [302]
-  complexity: Intermediário
+  complexity: Básico Intermediário Avançado Todos
 
 # Diego Senise
 -
   id: 303
   title: "Como Data Science está transformando o investimento em comunicação e mídia nas empresas?"
-  description: ""
+  description: "Um dos principais desafios dos líderes, seja de grandes empresas ou startups, é a definição de seus investimentos em comunicação e mídia. Saiba como a ciência de dados está trazendo eficácia e assertividade para esse processo e aprenda com os principais insights colhidos a partir de entrevistas com CMOs de grandes anunciantes brasileiros."
   subtype: presentation
   speakers: [303]
-  complexity: Todos
+  complexity: Básico Intermediário Avançado Todos
 
 # Thiago Pessato
 -
   id: 304
   title: "UX para Business Intelligence"
-  description: ""
+  description: "Aprenda quais são os principais artefatos de UX, quais são usados na rotina de projetos de BI e como ajudamos empresas a melhorar a eficiência na análise de dados."
   subtype: presentation
   speakers: [304]
-  complexity: Todos
+  complexity: Básico Intermediário Avançado Todos
 
 # Thaís Falabella e Alan Pierre
 -
@@ -242,32 +226,50 @@
   title: "O papel dos designers na construção de uma cultura data-driven"
   description: ""
   subtype: presentation
-  speakers: [3050]
+  speakers: [3050, 3051]
+  complexity: Básico Intermediário Avançado Todos
+
+# Felipe Antunes
+-
+  id: 306
+  title: "Data Office from Zero to Hero"
+  description: "O objetivo deste talk é apresentar apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
+  subtype: presentation
+  speakers: [306]
   complexity: Intermediário
 
-## Keynote Abertura
-#-
-#  id: 401
-#  title: ""
-#  place: ""
-#  subtype: keynote
-#  description: ""
-#  speakers: []
-#
-## Keynote Encerramento
-#-
-#  id: 402
-#  title: ""
-#  place: ""
-#  subtype: keynote
-#  description: ""
-#  speakers: []
+# Painel LGPD
+-
+  id: 307
+  title: "Painel LGPD"
+  description: ""
+  subtype: presentation
+  speakers: []
+  complexity: Básico
+
+# Keynote Abertura
+-
+ id: 401
+ title: "Keynote Abertura"
+ place: ""
+ subtype: keynote
+ description: "TBD"
+ speakers: []
+
+# Keynote Encerramento
+-
+ id: 402
+ title: "Keynote Encerramento"
+ place: ""
+ subtype: keynote
+ description: "TBD"
+ speakers: []
 
 # Gabriel Moreira
 -
   id: 501
   title: "Deep Recommender Systems na Prática"
-  description: ""
+  description: "Neste workshop hands-on, irei demonstrar na prática, do protótipo ao deploy, como implementar sistemas de recomendação utilizando arquiteturas de Deep Learning."
   subtype: presentation
   speakers: [501]
   complexity: Intermediário
@@ -276,7 +278,7 @@
 -
   id: 502
   title: "E agora, qual modelo é o melhor?"
-  description: ""
+  description: "Todo cientista de dados bem preparado conhece e sabe utilizar muitas técnicas de modelagem. Durante o processo de desenvolvimento criar vários modelos e nesse momento se depara com o desafio de escolher apenas um algoritmo para colocar em produção, mas qual modelo escolher? Nesse workshop vamos discutir os propósitos dos modelos e as métricas atreladas a cada propósito. Vamos interagir compartilhando casos reais e mostrar os caminhos abordados para suportar a escolha do melhor modelo! Teremos 90 minutos de muita troca de conhecimento! Não deixe de participar!!!"
   subtype: presentation
   speakers: [502]
   complexity: Intermediário
@@ -285,36 +287,9 @@
 -
   id: 503
   title: "TensorFlow 2.0"
-  description: ""
+  description: "Existem várias alterações no TensorFlow 2.0 para tornar os usuários do TensorFlow mais produtivos. O TensorFlow 2.0 remove APIs redundantes, torna as APIs mais consistentes (RNNs unificadas, otimizadores unificados) e se integra melhor ao tempo de execução do Python com a  Eager execution. Este guia apresenta uma visão de como deve ser o desenvolvimento no TensorFlow 2.0."
   subtype: presentation
   speakers: [202]
-  complexity: Básico
-
-# Felipe Antunes
--
-  id: 504
-  title: "Data Office from Zero to Hero"
-  description: ""
-  subtype: presentation
-  speakers: [504]
-  complexity: Intermediário
-
-# Painel LGPD
--
-  id: 800
-  title: "Painel LGPD"
-  description: ""
-  subtype: presentation
-  speakers: []
-  complexity: Básico
-
-# Painel Profissionais
--
-  id: 801
-  title: "Painel Profissionais de Dados"
-  description: ""
-  subtype: presentation
-  speakers: []
   complexity: Básico
 
 # -

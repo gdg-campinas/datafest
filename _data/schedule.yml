@@ -5,7 +5,10 @@
   tracks: 
     - {title: "Workshops", color: "#56D3B4"}
   timeslots:
-    - { startTime: "", endTime: "", sessionIds: [000] } 
+    - { startTime: "09:00", endTime: "10:30", sessionIds: [501] }
+    - { startTime: "11:00", endTime: "12:30", sessionIds: [502] }
+    - { startTime: "13:30", endTime: "15:00", sessionIds: [503] }
+    - { startTime: "15:30", endTime: "17:00", sessionIds: [000] } 
 
 - 
   date: "2019-11-11"
@@ -23,14 +26,14 @@
     - { startTime: "11:00", endTime: "11:30", sessionIds: [107, 205, 301] }
     - { startTime: "11:30", endTime: "12:00", sessionIds: [104, 202, 304] }
     - { startTime: "12:00", endTime: "13:00", sessionIds: [004] } #Almoço
-    - { startTime: "13:00", endTime: "13:20", sessionIds: [110, 204, 800] }
+    - { startTime: "13:00", endTime: "13:20", sessionIds: [110, 204, 307] }
     - { startTime: "13:20", endTime: "13:30", sessionIds: [109, 999, 999] }
     - { startTime: "13:30", endTime: "13:40", sessionIds: [999, 203, 999] }
     - { startTime: "13:40", endTime: "14:00", sessionIds: [108, 999, 999] }
-    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 801, 303] } 
+    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 206, 303] } 
     - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 999, 999] } 
     - { startTime: "15:00", endTime: "15:30", sessionIds: [002] } 
     - { startTime: "15:30", endTime: "16:00", sessionIds: [103, 000, 305] } 
-    - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 000, 504] } 
+    - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 000, 306] } 
     - { startTime: "16:30", endTime: "16:50", sessionIds: [007] } 
     - { startTime: "16:50", endTime: "17:00", sessionIds: [005] } 
