@@ -7,8 +7,8 @@
                 <div class="modal-body">
                     <div class="close">
                         <svg class="icon icon-cross" viewBox="0 0 32 32">
-								<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
-							</svg>
+                            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+                        </svg>
                         <div class="close-mask" data-dismiss="modal"></div>
                     </div>
                     <h4>{{ session.title }}</h4>
@@ -29,7 +29,8 @@
                         {% for speaker in site.data.speakers %} {% for session_speaker in session.speakers %} {% if session_speaker == speaker.id %}
                         <div class="row">
                             <div class="col-md-2 col-sm-2">
-                                <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                <div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+                                </div>
                             </div>
                             <div class="col-md-10 col-sm-10 details">
                                 <p class="name">{{ speaker.name }} {{ speaker.surname }}
@@ -45,10 +46,12 @@
                                 <ul class="social">
                                     {% for social in speaker.social %}
                                     <li>
-                                        <a href="{{ social[" link "] }}" target="_blank">
-                                            <svg class="icon icon-{{ social[" name "] }}" viewBox="0 0 30 32">
-																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
-															</svg>
+                                        <a href="{{ social['link'] }}" target="_blank">
+                                            <svg class="icon icon-{{ social['name'] }}" viewBox="0 0 30 32">
+                                                <use
+                                                    xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social['name'] }}">
+                                                </use>
+                                            </svg>
                                         </a>
                                     </li>
                                     {% endfor %}

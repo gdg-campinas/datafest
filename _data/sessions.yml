@@ -236,7 +236,7 @@
 -
   id: 306
   title: "Data Office from Zero to Hero"
-  description: "O objetivo deste talk é apresentar apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
+  description: "O objetivo deste talk é apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
   subtype: presentation
   speakers: [306]
   complexity: Intermediário
