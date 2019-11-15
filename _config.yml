@@ -140,8 +140,8 @@ media:
 # Tweets Feed Block
 tweetsFeedImage: "unicamp_campus_noturno.jpg"
 tweetsFeedTitle: "Fique ligado!"
-twitterHashTag: "datafest"
-twitterFeed: "<< twitter_feed_url >>"
+twitterHashTag: "gdgdatafest"
+twitterFeed: "https://queryfeed.net/tw?q=%23gdgdatafest"
 twitterHomeUrl: "https://twitter.com/gdgcampinas"
 
 # Partners Block
