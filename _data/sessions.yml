@@ -161,13 +161,13 @@
   complexity: Todos
 
 # Waldecir Junior
--
-  id: 204
-  title: "Data Quality: como podemos aplicar em ambientes de Big Data"
-  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema 'Data Quality' em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
-  subtype: presentation
-  speakers: [204]
-  complexity: Todos
+#-
+#  id: 204
+#  title: "Data Quality: como podemos aplicar em ambientes de Big Data"
+#  description: "Você lida com grandes volumes de dados e não tem certeza se a qualidade dos mesmos está adequada para a tomada de decisão de sua empresa? Em um ambiente de Big Data, onde o processamento em tempo hábil dos dados vindos de diferentes fontes já é difícil, é ainda mais difícil validar esses dados sem impactar consideravelmente os tempos de entrega de cada dataset. Nessa apresentação vou mostrar a arquitetura do nosso Data Lake e como conseguimos empregar parte da teoria que envolve o tema 'Data Quality' em nossos processos, garantindo assim a qualidade dos dados nas diferentes zonas do Data Lake sem grandes impactos nas janelas de tempo que temos para entregar cada dataset. Também vou mostrar como democratizamos esse assunto dentro da empresa de forma que qualquer profissional que desenvolve ETL consiga de aplicar, de forma simples, as validações que achar necessário."
+#  subtype: presentation
+#  speakers: [204]
+#  complexity: Todos
 
 # Felipe Pereira
 -
@@ -197,13 +197,13 @@
   complexity: Intermediário
 
 # Ivan Lima
--
-  id: 302
-  title: "Dados no iFood: Passado, Presente e Futuro"
-  description: "O time de dados do iFood nasceu em 2016, e de lá para cá tomou várias formas, com diferentes papéis, responsabilidades e processos. Foram muitos aprendizados ao longo do caminho, sempre com o objetivo de estruturar um time de dados que impacta e gera valor diretamente ao negócio. Como fazer isso na escala do iFood?"
-  subtype: presentation
-  speakers: [302]
-  complexity: Intermediário
+#-
+#  id: 302
+#  title: "Dados no iFood: Passado, Presente e Futuro"
+#  description: "O time de dados do iFood nasceu em 2016, e de lá para cá tomou várias formas, com diferentes papéis, responsabilidades e processos. Foram muitos aprendizados ao longo do caminho, sempre com o objetivo de estruturar um time de dados que impacta e gera valor diretamente ao negócio. Como fazer isso na escala do iFood?"
+#  subtype: presentation
+#  speakers: [302]
+#  complexity: Intermediário
 
 # Diego Senise
 -

@@ -182,17 +182,17 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-breuel-59b516" }
 
 # Waldecir Junior
--
-  id: 204
-  name: "Waldecir"
-  surname: "Junior"
-  company: "iFood"
-  title: "Engenheiro de Dados"
-  bio: "Após concluir o mestrado em Banco de Dados, iniciei minha carreira profissional como Administrador de  Banco de Dados, atividade que exerci por mais de 6 anos. Nos últimos 5 anos tenho me dedicado a Engenheria de Dados, ajudando a definir arquiteturas escaláveis para processamento, armazenamento e disponibilização de grandes volumes de dados. Atualmente atuo como Engenheiro de Dados no iFood. Aqui meu foco é o desenvolvimento de plataformas/ferramentas para simplificar todo o processo de ingestão, manipulação e disponibilização dos dados da empresa. Criação de ETLs, pipelines de dados, políticas de qualidade de dados, orquestração de dados e gestão de Data Lakes são as principais atividades que fazem parte do meu dia-a-dia."
-  thumbnailUrl: WaldecirJunior.jpeg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/waldecir-pereira-junior-04560335" }
+# -
+#  id: 204
+#  name: "Waldecir"
+#  surname: "Junior"
+#  company: "iFood"
+#  title: "Engenheiro de Dados"
+#  bio: "Após concluir o mestrado em Banco de Dados, iniciei minha carreira profissional como Administrador de  Banco de Dados, atividade que exerci por mais de 6 anos. Nos últimos 5 anos tenho me dedicado a Engenheria de Dados, ajudando a definir arquiteturas escaláveis para processamento, armazenamento e disponibilização de grandes volumes de dados. Atualmente atuo como Engenheiro de Dados no iFood. Aqui meu foco é o desenvolvimento de plataformas/ferramentas para simplificar todo o processo de ingestão, manipulação e disponibilização dos dados da empresa. Criação de ETLs, pipelines de dados, políticas de qualidade de dados, orquestração de dados e gestão de Data Lakes são as principais atividades que fazem parte do meu dia-a-dia."
+#  thumbnailUrl: WaldecirJunior.jpeg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/waldecir-pereira-junior-04560335" }
 
 # Felipe Pereira
 -
@@ -221,17 +221,17 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/wespatrocinio" }
 
 # Ivan Lima
--
-  id: 302
-  name: "Ivan"
-  surname: "Lima"
-  company: ""
-  title: "Head de Engenharia de Dados e ML"
-  bio: "iFood"
-  thumbnailUrl: IvanLima.jpeg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/ivanlima1" }
+#-
+#  id: 302
+#  name: "Ivan"
+#  surname: "Lima"
+#  company: ""
+#  title: "Head de Engenharia de Dados e ML"
+#  bio: "iFood"
+#  thumbnailUrl: IvanLima.jpeg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/ivanlima1" }
 
 # Diego Senise 
 -
