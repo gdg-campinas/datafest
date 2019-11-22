@@ -160,20 +160,6 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dos workshops dão acesso a todos os workshops no dia 10 de dezembro e os ingressos da conferência dão acesso a todas as trilhas no dia 11 de dezembro. Ingressos dos workshops não serão aceitos para entrada na conferência e ingressos da conferência não serão aceitos para entrada nos workshops.<br><br>A entrada com ingressos de estudantes será permitida somente com a apresentação de um coprovante válido (carteirinha, boleto de mensalidade, etc.). Em caso de não apresentação de um comprovante válido, a entrada será negada e os ingressos não serão reembolsados e nem será aceito pagamento da diferença para adquirir o ingresso inteiro."
 ticketsOffers:
  -
-  name: "Apenas Camiseta"
-  price: "30,00"
-  priceCurrency: "R$"
-  # ticketsNumber: "200"
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
-  buyButtonText: "Comprar"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/09/2018T00:00"
-  validThrough: "30/11/2018T23:59"
-  disabled: false
-  soldOut: false
-  soldOutText: "Esgotado"
- -
   name: "Workshops 10/12"
   price: "150,00"
   priceCurrency: "R$"
@@ -221,6 +207,21 @@ ticketsOffers:
   disabled: false
   soldOut: false
   soldOutText: "Esgotado"
+ -
+  name: "Apenas Camiseta"
+  price: "30,00"
+  priceCurrency: "R$"
+  # ticketsNumber: "200"
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2018T00:00"
+  validThrough: "30/11/2018T23:59"
+  disabled: false
+  soldOut: false
+  soldOutText: "Esgotado"
+
  -
   name: "Conferência 11/12 <br> Late Bird"
   price: "200,00"
