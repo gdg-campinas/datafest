@@ -326,6 +326,74 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/adrianamms" }  
 
+# Ivan Marin
+-
+  id: 504
+  name: "Ivan"
+  surname: "Marin"
+  company: "Daitan Group"
+  title: "Principal Data Scientist"
+  bio: "Ivan Marin é bacharel em Física pela USP, com mestrado em Física Aplicada pelo IFSC e doutorado em Engenharia na EESC, também pela USP. Atualmente trabalha com cientista de dados líder e arquiteto de sistemas na Daitan, depois de passagens por empresas multinacionais da área de agricultura, comunicações e saúde. Tem como interesses ciência de dados, aprendizado de máquina e computação de alto desempenho, além de gerenciamento de equipes e liderança em projetos de desenvolvimento."
+  thumbnailUrl: IvanMarin.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://linkedin.com/in/ivanmarin" }  
+
+# Kenji Hiraoka
+-
+  id: 505
+  name: "Kenji"
+  surname: "Hiraoka"
+  company: "QuintoAndar"
+  title: "Data Engineer"
+  bio: "Sou um jovem que procura desafios por onde passa, tenho contato com a Engenharia de Dados desde 2017 e desde lá me apaixonei pelos problemas que haviam na área."
+  thumbnailUrl: Kenji.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/willian-kenji-hiraoka-97bb0a149/" }
+    - { name: "github", link: "https://github.com/kenjihiraoka" }
+
+
+# Luis Henrique
+-
+  id: 506
+  name: "Luis"
+  surname: "Henrique"
+  company: "TIBCO - Analytics, Data Science, IA"
+  title: "Diretor de Negócios"
+  bio: "Diretor Vendas e Novos Negócios e um grande Entusiasta da Inovação, Transformação Digital e Futurismo. Atualmente é Diretor de Vendas para a América Latina da TIBCO, empresa baseada no Vale do Silício, onde lidera as iniciativas relacionadas a novos produtos e novos negócios, apoiando o desenvolvimento de novos produtos e soluções em Analytics, Data Science, Machine Learning, Inovação, Transformação Digital e afins. Possui mais de 12 anos de experiência em empresas multinacionais de tecnologia, apoiando várias áreas de negócio, novos produtos e serviços. É formado em Administração de Empresas, MBA em Estratégia de Negócios pela FGV. Tem participado ainda em inúmeros cursos de pós-graduação em renomadas instituições tais Columbia University, London Business School e University of Michigan. É um grande entusiasta do tema “Inovação, Liderança e Transformação, Propósito nas Organizações, Tecnologias Exponenciais, Futuro e Novas Tecnologias”. Tem dedicado parte de seu tempo ao estudo intenso destes temas e a participação de inúmeros eventos, fóruns e meetups tendo como foco o tema Analytics, Inovação e Gestão do Futuro. Casado com a Sarah a 11 anos, Pai de 3 filhos... Enzo, Henrique e Pedro!"
+  thumbnailUrl: LuisHenrique.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/luishenriquesantana/" }  
+
+# Fabio Tagliari
+-
+  id: 507
+  name: "Fábio"
+  surname: "Luiz Tagliari"
+  company: "Wavy (Movile)"
+  title: "Data Engineer Specialist"
+  bio: "Atualmente na posição de Data Enginner na Wavy, mais de 10 anos atuando em tecnologia e me considero um entusiasta em Big Data e Cultura de dados. Meu objetivo como profissional é solucionar problemas do negócio e criar novas oportunidades, embasado em dados."
+  thumbnailUrl: FabioTagliari.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/fabiotagliari/" }  
+
+
+# Vitor Augusto Prado
+-
+  id: 508
+  name: "Vitor"
+  surname: "Augusto Prado"
+  company: "Wavy (Movile)"
+  title: "Data Engineer"
+  bio: "Engenheiro de Dados na Wavy, cursando último ano de Ciência da Computação, 3 anos atuando com tecnologia, apaixonado por dados, games e carros. Comprometido com a consistência e qualidade dos dados empoderando o negócio nas tomadas de decisões."
+  thumbnailUrl: VitorPrado.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/vitoraugustoprado/" }  
+
 # - 
 #   id: 99
 #   name: "Mateusz"

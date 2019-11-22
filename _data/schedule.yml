@@ -28,15 +28,15 @@
     - { startTime: "09:40", endTime: "10:00", sessionIds: [401] } # Keynote Abertura
     - { startTime: "10:00", endTime: "11:00", sessionIds: [105, 201, 303] } 
     - { startTime: "11:00", endTime: "11:30", sessionIds: [107, 205, 301] }
-    - { startTime: "11:30", endTime: "12:00", sessionIds: [104, 000, 304] }
+    - { startTime: "11:30", endTime: "12:00", sessionIds: [104, 507, 304] }
     - { startTime: "12:00", endTime: "13:00", sessionIds: [004] } # Almoço
     - { startTime: "13:00", endTime: "13:20", sessionIds: [110, 206, 307] }
     - { startTime: "13:20", endTime: "13:40", sessionIds: [109, 206, 307] }
     - { startTime: "13:40", endTime: "14:00", sessionIds: [108, 206, 307] }
-    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 203, 000] } 
-    - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 202, 000] }
+    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 203, 506] } 
+    - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 202, 506] }
     - { startTime: "15:00", endTime: "15:30", sessionIds: [003] } # Coffee
-    - { startTime: "15:30", endTime: "16:00", sessionIds: [103, 000, 305] } 
-    - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 000, 306] } 
+    - { startTime: "15:30", endTime: "16:00", sessionIds: [103, 505, 305] } 
+    - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 504, 306] } 
     - { startTime: "16:30", endTime: "16:50", sessionIds: [402] } # Keynote Encerramento
     - { startTime: "16:50", endTime: "17:00", sessionIds: [005] } # Encerramento

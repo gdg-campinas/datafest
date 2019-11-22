@@ -178,10 +178,10 @@
   speakers: [205]
   complexity: Intermediário
 
-# Painel Profissionais
+# Painel Data Lake
 -
   id: 206
-  title: "Painel Profissionais de Dados"
+  title: "Painel Data Lake"
   description: ""
   subtype: presentation
   speakers: []
@@ -294,6 +294,43 @@
   subtype: presentation
   speakers: [202]
   complexity: Básico
+
+# Ivan Marin
+-
+  id: 504
+  title: "O ABC de DE"
+  description: "Engenharia de dados (Data Engineering, DE) entra em Ciência de Dados como o suporte para a coleta, transformação e preparação dos dados que todo cientista de dados precisa. Nesta palestra vamos entender o básico do que são dados, quais são as transformações mais comuns que Ciência de Dados precisa, e os problemas - com algumas soluções! - que tiram o sono dos cientistas de dados."
+  subtype: presentation
+  speakers: [504]
+  complexity: Básico
+
+# Kenji
+-
+  id: 505
+  title: "Airflow: The Last Airbender"
+  description: "Abordarei 2 tipos de infra mais usado no Airflow, uma mais básica geralmente usada por quem está começando a orquestrar seus fluxos, e outro abordando uma versão mais complexa que realmente usa o poder da orquestração de pipelines. Essa apresentação irá abordar assuntos tanto básico como intermediário que pode ajudar a evoluir sua infraestrututura de dados."
+  subtype: presentation
+  speakers: [505]
+  complexity: Básico Intermediário
+
+# Luis Henrique
+-
+  id: 506
+  title: "Como identificar casos de uso nas áreas de negócios e como gerar valor com dados?"
+  description: "Porque alguém DEVERIA participar: é uma abordagem muito clara de como identificar casos de uso, dores relacionadas a dados, como identificar os silos de dados e onde estão as principais oportunidades com dados? O que a pessoa irá APRENDER: não adianta dominar a tecnologia, ter as soluções e interagir com os big players se voce nao consegue gerar valor pro negócio, gerar ROI, gerar insights e facilitar esse processo de apoio aos tomadores de decisao. "
+  subtype: presentation
+  speakers: [506]
+  complexity: Todos
+  
+
+# Fabio & Vitor
+-
+  id: 507
+  title: "Empoderamento através da Cultura de Dados"
+  description: "Muitas empresas hoje se consideram \"Data Driven\" pelo grande investimento em tecnologia, mas afinal, ser data driven é apenas ter a tecnologia para isso? A tecnologia é importante, mas o maior desafio está além dela, na cultura. Nesta conversa, queremos compartilhar um pouco da nossa experiência e como enfrentamos este desafio diariamente. É claro, não poderíamos deixar de falar de tecnologia, por isso vamos apresentar como o Metabase e o BigQuery nos ajudou nesta \"empreitada\"."
+  subtype: presentation
+  speakers: [507, 508]
+  complexity: Intermediário
 
 # -
 #   id: 002
