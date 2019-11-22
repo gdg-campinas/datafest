@@ -190,38 +190,6 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 <br> Early Bird"
-  price: "100,00"
-  priceCurrency: "R$"
-  ticketsNumber: "100"
-  # ribbon: "-20%"
-  # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
-  buyButtonText: "Comprar"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/09/2019T00:00"
-  validThrough: "25/10/2019T23:59"
-  disabled: false
-  soldOut: true
-  soldOutText: "Esgotado"
- -
-  name: "Conferência 11/12 <br> Early Bird Estudante"
-  price: "50,00"
-  priceCurrency: "R$"
-  ticketsNumber: "100"
-  # ribbon: "-20%"
-  # featured: true
-  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
-  buyButtonText: "Comprar"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/09/2019T00:00"
-  validThrough: "25/10/2019T23:59"
-  disabled: false
-  soldOut: true
-  soldOutText: "Esgotado"
- -
   name: "Conferência 11/12 <br> Normal Bird"
   price: "150,00"
   priceCurrency: "R$"
@@ -284,6 +252,38 @@ ticketsOffers:
   validThrough: "11/12/2019T23:59"
   disabled: true
   soldOut: false
+  soldOutText: "Esgotado"
+ -
+  name: "Conferência 11/12 <br> Early Bird"
+  price: "100,00"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2019T00:00"
+  validThrough: "25/10/2019T23:59"
+  disabled: false
+  soldOut: true
+  soldOutText: "Esgotado"
+ -
+  name: "Conferência 11/12 <br> Early Bird Estudante"
+  price: "50,00"
+  priceCurrency: "R$"
+  ticketsNumber: "100"
+  # ribbon: "-20%"
+  # featured: true
+  buyButtonLink: "https://www.eventbrite.com.br/e/datafest-2019-tickets-74291398573"
+  buyButtonText: "Comprar"
+  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "11/09/2019T00:00"
+  validThrough: "25/10/2019T23:59"
+  disabled: false
+  soldOut: true
   soldOutText: "Esgotado"
 
 # Footer
