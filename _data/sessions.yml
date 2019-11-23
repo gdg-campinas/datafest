@@ -133,7 +133,7 @@
 # Lucas Arruda
 -
   id: 201
-  title: "Diferentes abordagens e arquiteturas de referência para Data Analytics no Google Cloud"
+  title: "Diferentes abordagens e arquiteturas de referência para Data Engineering no Google Cloud"
   description: "Sinta-se convidado a participar de uma consultoria de 50 minutos na qual irei apresentar uma série de abordagens diferentes para migrar seu Data Lake/Warehouse de outros provedores ou mesmo do próprio data-center para o GCP, levando em consideração diversos requisitos como real-time processing, durabilidade e disponibilidade, baixa latência de rede, segurança, escalabilidade, custos e outros. Veremos também como 'massagear' os dados após terem sido ingeridos, para fins como data cleansing, masquerading, pre/post-processing e obter insights por meio de ferramentas de visualização e até fazendo uso de algoritmos de machine learning/AI. Não saia com dúvidas, participe fazendo perguntas!"
   subtype: presentation
   speakers: [201]
