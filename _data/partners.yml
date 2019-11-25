@@ -2,6 +2,12 @@
 #   group: "Senior"
 #   elements:
 #     - {name: "Movile", description: "Movile", link: "https://movile.com/", imageUrl: "movile.png", width: "115%"}
+
+-
+  group: Master
+  elements:
+    - { name: "CI&T", description: "CI&T", link: "https://br.ciandt.com/", imageUrl: "ciandt.png", width: "140%" }
+
 -
   group: Apoio
   elements:
