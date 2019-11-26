@@ -160,7 +160,7 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Os ingressos dos workshops dão acesso a todos os workshops no dia 10 de dezembro e os ingressos da conferência dão acesso a todas as trilhas no dia 11 de dezembro. Ingressos dos workshops não serão aceitos para entrada na conferência e ingressos da conferência não serão aceitos para entrada nos workshops.<br><br>A entrada com ingressos de estudantes será permitida somente com a apresentação de um comprovante válido (carteirinha, boleto de mensalidade, etc.). Em caso de não apresentação de um comprovante válido, a entrada será negada e os ingressos não serão reembolsados e nem será aceito pagamento da diferença para adquirir o ingresso inteiro."
 ticketsOffers:
  -
-  name: "Workshops (10/12)"
+  name: "Workshops (10/dez)"
   price: "150,00"
   priceCurrency: "R$"
   ticketsNumber: "60"
@@ -176,7 +176,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Workshops [Estudante] (10/12)"
+  name: "Workshops [Estudante] (10/dez)"
   price: "75,00"
   priceCurrency: "R$"
   ticketsNumber: "40"
@@ -192,7 +192,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Palestras (11/12)"
+  name: "Palestras (11/dez)"
   price: "150,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -208,7 +208,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Palestras [Estudante] (11/12)"
+  name: "Palestras [Estudante] (11/dez)"
   price: "75,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -239,7 +239,7 @@ ticketsOffers:
   soldOutText: "Esgotado"
 
  -
-  name: "Conferência 11/12 <br> Late Bird"
+  name: "Palestras (11/dez) <br> Late Bird"
   price: "200,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
@@ -255,7 +255,7 @@ ticketsOffers:
   soldOut: false
   soldOutText: "Esgotado"
  -
-  name: "Conferência 11/12 <br> Late Bird Estudante"
+  name: "Palestras (11/dez) <br> Late Bird Estudante"
   price: "100,00"
   priceCurrency: "R$"
   ticketsNumber: "100"
