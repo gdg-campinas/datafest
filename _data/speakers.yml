@@ -394,6 +394,19 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/vitoraugustoprado/" }  
 
+# Darcy Junior
+-
+  id: 509
+  name: "Darcy"
+  surname: "Junior"
+  company: "Conceito Digital Consultoria e Treinamentos"
+  title: "Consultor em Direito Digital"
+  bio: "Co-fundador da Conceito Data Privacy Consulting; Bacharel em Administração de Empresas;  Pós-graduado em Direito Digital e Compliance; Pós-graduado em Marketing Digital e Negócios Interativos; Certificado pela EXIN em Privacy & Data Protection – LGPD; Palestrante e Consultor em Privacidade e Proteção de Dados pessoais; Atuei em empresas como: Kalunga, IBM e EPTV (afiliado Globo) na área de Desenvolvimento de Sistemas Web."
+  thumbnailUrl: DarcyJunior.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/darcyjunior/" }  
+
 # - 
 #   id: 99
 #   name: "Mateusz"

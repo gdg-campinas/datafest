@@ -184,7 +184,7 @@
   title: "Painel Data Lake"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [201]
   complexity: Básico
 
 # Weslley Patrocinio
@@ -247,7 +247,7 @@
   title: "Painel LGPD"
   description: ""
   subtype: presentation
-  speakers: []
+  speakers: [509, 504]
   complexity: Básico
 
 # Keynote Abertura
