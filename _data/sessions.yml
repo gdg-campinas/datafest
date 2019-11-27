@@ -184,7 +184,7 @@
   title: "Painel Data Lake"
   description: ""
   subtype: presentation
-  speakers: [201]
+  speakers: [201, 511, 512, 513, 514]
   complexity: Básico
 
 # Weslley Patrocinio
@@ -247,7 +247,7 @@
   title: "Painel LGPD"
   description: ""
   subtype: presentation
-  speakers: [509, 504]
+  speakers: [509, 504, 515, 516]
   complexity: Básico
 
 # Keynote Abertura
@@ -256,8 +256,8 @@
  title: "Keynote Abertura"
  place: ""
  subtype: keynote
- description: "TBD"
- speakers: []
+ description: "Interpretabilidade, justiça e representatividade"
+ speakers: [510]
 
 # Keynote Encerramento
 -

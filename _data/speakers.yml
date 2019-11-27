@@ -13,6 +13,21 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/mariofilho" }
 
+# Carla Vieira
+-
+  id: 510
+  name: "Carla"
+  surname: "Vieira"
+  company: "Tecnogueto"
+  title: "Instrutora"
+  bio: "Desenvolvedora, coordenadora do perifaCode, instrutora no Tecnogueto e palestrante sobre Inteligência Artificial e ética. Acredita na tecnologia como ferramenta de transformação social."
+  thumbnailUrl: CarlaVieira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://linkedin.com/in/carlaprv/" }  
+    - { name: "github", link: "https://github.com/carlaprv" }  
+    - { name: "twitter", link: "https://twitter.com/carlaprvieira" } 
+
 # Esther Colombini
 -
   id: 102
@@ -179,7 +194,8 @@
   thumbnailUrl: CristianoBreuel.jpeg
   rockstar: false
   social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-breuel-59b516" }
+    - { name: "linkedin", link: "https://www.linkedin.com/in/cristiano-breuel" }
+    - { name: "twitter", link: "https://twitter.com/cbreuel" }
 
 # Waldecir Junior
 # -
@@ -406,6 +422,86 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/darcyjunior/" }  
+
+# Pedro Teixeira
+-
+  id: 511
+  name: "Pedro"
+  surname: "Teixeira"
+  company: "iFood"
+  title: "Coordenador de Data Platform"
+  bio: "Coordenador do time de Data Platform do iFood. Engenheiro de Software por 10 anos. Engenheiro de Dados por 2 anos e contando... "
+  thumbnailUrl: PedroTeixeira.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pedrohtex/" }
+
+# Werner Denzin
+-
+  id: 512
+  name: "Werner"
+  surname: "Denzin"
+  company: "SiDi"
+  title: "Tech Lead"
+  bio: "Werner Denzin é Tech Lead (Senior Software Engineer) no SiDi, responsável pela liderança técnica de inúmeros projetos Samsung e atualmente, tem atuado na concepção de Data Strategies/Lakes/Pipelines (de um dos principais produtos do SiDi destinado a área de Services da Samsung) com o objetivo de extrair métricas (BI), insights, oportunidades de melhoria, além da aplicabilidade de IA como diferencial para evolução e para aumento da satisfação dos clientes."
+  thumbnailUrl: WernerDenzin.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/wernerdenzin" }
+    - { name: "twitter", link: "https://twitter.com/werner_cjd" }
+
+# Alan Camilo
+-
+  id: 513
+  name: "Alan"
+  surname: "Camilo"
+  company: "Blueshift"
+  title: "CTO"
+  bio: "Alan Camillo, idealizador e fundador da BlueShift Brasil. Com formações em tecnologia, geoestatística, economia e mais de 15 anos de experiência como arquiteto de software, sistemas de alta disponibilidade e de grande porte, vem se especializando em Big Data desde 2011. É referência em engenharia de dados e construção de Data Lakes, com participação na construção da estratégia de dados de importantes empresas do mercado brasileiro."
+  thumbnailUrl: AlanCamilo.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/company/blueshift-brasil/" }
+
+# Pedro Contart
+-
+  id: 514
+  name: "Pedro"
+  surname: "Contart"
+  company: "Beblue"
+  title: "Chapter Lead de Engenharia de Dados"
+  bio: "Tendo sido um dos principais responsáveis pela criação, estruturação, e atualmente, manutenção e desenvolvimento do Data Lake da Beblue, atua como Chapter Lead Data Engineer, direcionando o time de engenharia de dados na utilização das soluções mais avançadas do mercado, como processamento e tomada de decisão em tempo real."
+  thumbnailUrl: PedroContart.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/pedro-contart-215a83116/" }
+
+# Thamiris Moraes
+-
+  id: 515
+  name: "Thamiris"
+  surname: "Moraes"
+  company: "Afonso & Corrêa Advogados"
+  title: "Advogada"
+  bio: "Advogada. Graduada pela Universidade Paulista UNIP. Pós-graduanda em Direito Civil pela LFG. Atuante no Direito de Família, contencioso e consultivo Cível e Contratual Empresarial. Associada à Associação dos Advogados de São Paulo - AASP e também Certificada em Recursos Cíveis Contra Decisões de Primeiro Grau, Direito Empresarial Digital e Inovação e Direito de Família e Sucessões. Cerficada pela Instituição de Ensino Êxito em Responsabilidade Civil no Erro Médico e pela FGV em Direito Imobiliário. Membro integrante da Comissão dos Jovens Advogados da OAB Campinas/SP. "
+  thumbnailUrl: ThamirisMoraes.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/thamiris-rodines-reis-moraes-b26a8099" }
+
+# Eliézer Zarpelão
+-
+  id: 516
+  name: "Eliézer"
+  surname: "Zarpelão"
+  company: "ZarpSystem"
+  title: "Arquiteto de Software"
+  bio: "Empreendedor apaixonado por desenvolvimento Web com mais de 15 anos de experiência e co-fundador da ZarpSystem. Atualmente atua como arquiteto de software na ZarpSystem, professor universitário na UNAERP e violoncelista nas [poucas] horas vagas. Especialista em Engenharia de Software pela Unicamp e Graduado em Sistemas de Informação pela USP."
+  thumbnailUrl: EliezerZarpelao.png
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/eliezerzarpelao/" }
+
 
 # - 
 #   id: 99
