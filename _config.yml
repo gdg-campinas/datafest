@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
  - {count: "6", specialCharacter: "", info: "workshops", detail: "para aprender com a mão na massa"}
  - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "referências no assunto"}
- - {count: "600", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
@@ -234,8 +234,8 @@ ticketsOffers:
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "11/09/2018T00:00"
   validThrough: "30/11/2018T23:59"
-  disabled: false
-  soldOut: false
+  disabled: true
+  soldOut: true
   soldOutText: "Esgotado"
 
  -
