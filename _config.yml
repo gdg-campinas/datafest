@@ -232,8 +232,8 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "11/09/2018T00:00"
-  validThrough: "30/11/2018T23:59"
+  validFrom: "11/09/2019T00:00"
+  validThrough: "30/11/2019T23:59"
   disabled: true
   soldOut: true
   soldOutText: "Esgotado"
