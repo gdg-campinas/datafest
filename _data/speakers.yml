@@ -424,17 +424,17 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/darcyjunior/" }  
 
 # Pedro Teixeira
--
-  id: 511
-  name: "Pedro"
-  surname: "Teixeira"
-  company: "iFood"
-  title: "Coordenador de Data Platform"
-  bio: "Coordenador do time de Data Platform do iFood. Engenheiro de Software por 10 anos. Engenheiro de Dados por 2 anos e contando... "
-  thumbnailUrl: PedroTeixeira.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/pedrohtex/" }
+#-
+#  id: 511
+#  name: "Pedro"
+#  surname: "Teixeira"
+#  company: "iFood"
+#  title: "Coordenador de Data Platform"
+#  bio: "Coordenador do time de Data Platform do iFood. Engenheiro de Software por 10 anos. Engenheiro de Dados por 2 anos e contando... "
+#  thumbnailUrl: PedroTeixeira.jpg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/pedrohtex/" }
 
 # Werner Denzin
 -
