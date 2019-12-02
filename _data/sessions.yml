@@ -215,13 +215,13 @@
   complexity: Todos
 
 # Thiago Pessato
--
-  id: 304
-  title: "UX para Business Intelligence"
-  description: "Aprenda quais são os principais artefatos de UX, quais são usados na rotina de projetos de BI e como ajudamos empresas a melhorar a eficiência na análise de dados."
-  subtype: presentation
-  speakers: [304]
-  complexity: Todos
+#-
+#  id: 304
+#  title: "UX para Business Intelligence"
+#  description: "Aprenda quais são os principais artefatos de UX, quais são usados na rotina de projetos de BI e como ajudamos empresas a melhorar a eficiência na análise de dados."
+#  subtype: presentation
+#  speakers: [304]
+#  complexity: Todos
 
 # Thaís Falabella e Alan Pierre
 -
@@ -266,7 +266,7 @@
  place: ""
  subtype: keynote
  description: "TBD"
- speakers: []
+ speakers: [102, 103]
 
 # Gabriel Moreira
 -

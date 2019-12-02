@@ -263,17 +263,17 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/diego-senise-b2a8279" }
 
 # Thiago Pessato
--
-  id: 304
-  name: "Thiago"
-  surname: "Pessato"
-  company: "Cluster"
-  title: "Head of Information Design"
-  bio: "Graduado em Arquitetura e Pós-Graduado em Design Estratégico. Tem experiência de mais de 15 anos no desenvolvimento de interfaces digitais. Fundador da Cluster, idealizador e instrutor dos cursos oferecidos pela empresa na área de Dataviz, também é responsável por garantir a qualidade das entregas dos projetos de design de painéis de Business Intelligence realizados pela empresa."
-  thumbnailUrl: ThiagoPessato.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/thiagopessato" }
+#-
+#  id: 304
+#  name: "Thiago"
+#  surname: "Pessato"
+#  company: "Cluster"
+#  title: "Head of Information Design"
+#  bio: "Graduado em Arquitetura e Pós-Graduado em Design Estratégico. Tem experiência de mais de 15 anos no desenvolvimento de interfaces digitais. Fundador da Cluster, idealizador e instrutor dos cursos oferecidos pela empresa na área de Dataviz, também é responsável por garantir a qualidade das entregas dos projetos de design de painéis de Business Intelligence realizados pela empresa."
+#  thumbnailUrl: ThiagoPessato.jpg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/thiagopessato" }
 
 # Thaís Falabella 
 -
