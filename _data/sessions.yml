@@ -233,13 +233,13 @@
   complexity: Intermediário
 
 # Felipe Antunes
--
-  id: 306
-  title: "Data Office from Zero to Hero"
-  description: "O objetivo deste talk é apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
-  subtype: presentation
-  speakers: [306]
-  complexity: Intermediário
+#-
+#  id: 306
+#  title: "Data Office from Zero to Hero"
+#  description: "O objetivo deste talk é apresentar os princípios e desafios da construção de uma área de dados do zero, desde como atrair talentos até construir frameworks escaláveis."
+#  subtype: presentation
+#  speakers: [306]
+#  complexity: Intermediário
 
 # Painel LGPD
 -
@@ -330,6 +330,24 @@
   description: "Muitas empresas hoje se consideram \"Data Driven\" pelo grande investimento em tecnologia, mas afinal, ser data driven é apenas ter a tecnologia para isso? A tecnologia é importante, mas o maior desafio está além dela, na cultura. Nesta conversa, queremos compartilhar um pouco da nossa experiência e como enfrentamos este desafio diariamente. É claro, não poderíamos deixar de falar de tecnologia, por isso vamos apresentar como o Metabase e o BigQuery nos ajudou nesta \"empreitada\"."
   subtype: presentation
   speakers: [507, 508]
+  complexity: Intermediário
+
+# Erlon Faria Rachi
+-
+  id: 518
+  title: "Data Governance in the Spotlight"
+  description: "Relevância do estabelecimento de uma política de governança de dados observando os requerimentos de LGPD sobre o processo de criação de valor & insights."
+  subtype: presentation
+  speakers: [518]
+  complexity: Intermediário
+
+# Graziela Brandão de Lima - Workshop
+-
+  id: 517
+  title: "Privacy by design na prática"
+  description: "Neste Workshop o participante aprenderá sobre os princípios de privacy by design. A ideia é, ao final, tentar formular junto com os participantes um Termo de Uso e Política de Privacidade aplicando a metodologia Privacy by design que só será possível se os conceitos forem utilizados no design da plataforma em questão."
+  subtype: presentation
+  speakers: [517]
   complexity: Intermediário
 
 # -

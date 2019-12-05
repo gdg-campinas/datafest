@@ -302,17 +302,17 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/alanpr" }
 
 # Felipe Antunes 
--
-  id: 306
-  name: "Felipe"
-  surname: "Antunes"
-  company: "Lendico"
-  title: "Chief Data Scientist"
-  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
-  thumbnailUrl: FelipeAntunes.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
+#-
+#  id: 306
+#  name: "Felipe"
+#  surname: "Antunes"
+#  company: "Lendico"
+#  title: "Chief Data Scientist"
+#  bio: "Chief Data Scientist na Lendico. Possui Mestrado em Física Estatística pela UFRGS onde atualmente cursa o Doutorado na mesma área. Trabalha com Ciência de Dados desde 2014, quando criou um algoritmo de criptotrading durante uma competição internacional promovida pela ESA, a agência espacial européia, após isso desenvolveu um algoritmo de roteamento durante sua passagem por uma startup de tecnologia em mobilidade urbana e passou pelo Itaú antes de criar a área de dados da Lendico."
+#  thumbnailUrl: FelipeAntunes.jpg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "http://linkedin.com/in/feantunes" }
 
 # Gabriel Moreira
 -
@@ -514,6 +514,21 @@
   rockstar: false
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/grazielabrandao/" }
+
+# Erlon Faria Rachi
+-
+  id: 518
+  name: "Erlon"
+  surname: "Faria Rachi"
+  company: "CI&T"
+  title: "Gerente de Ciência de Dados"
+  bio: "Gerente de Analytics & Data Science na CI&T, Erlon é Matemático formado pela UNICAMP, tendo especializações na FGV e GeorgiaTech. Atualmente é mestrando em Ciência de Dados na Universidade Mackenzie. Professor e palestrante com vivência de mais de 15 anos em consultoria e modelagem de dados em várias indústrias: Logística, Farmacêutica, Automotiva, Alimentícia."
+  thumbnailUrl: ErlonRachi.jpeg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/erlonrachi/" }
+
+    
 
 
 # - 
