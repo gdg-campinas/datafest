@@ -371,17 +371,17 @@
 
 
 # Luis Henrique
--
-  id: 506
-  name: "Luis"
-  surname: "Henrique"
-  company: "TIBCO - Analytics, Data Science, IA"
-  title: "Diretor de Negócios"
-  bio: "Diretor Vendas e Novos Negócios e um grande Entusiasta da Inovação, Transformação Digital e Futurismo. Atualmente é Diretor de Vendas para a América Latina da TIBCO, empresa baseada no Vale do Silício, onde lidera as iniciativas relacionadas a novos produtos e novos negócios, apoiando o desenvolvimento de novos produtos e soluções em Analytics, Data Science, Machine Learning, Inovação, Transformação Digital e afins. Possui mais de 12 anos de experiência em empresas multinacionais de tecnologia, apoiando várias áreas de negócio, novos produtos e serviços. É formado em Administração de Empresas, MBA em Estratégia de Negócios pela FGV. Tem participado ainda em inúmeros cursos de pós-graduação em renomadas instituições tais Columbia University, London Business School e University of Michigan. É um grande entusiasta do tema “Inovação, Liderança e Transformação, Propósito nas Organizações, Tecnologias Exponenciais, Futuro e Novas Tecnologias”. Tem dedicado parte de seu tempo ao estudo intenso destes temas e a participação de inúmeros eventos, fóruns e meetups tendo como foco o tema Analytics, Inovação e Gestão do Futuro. Casado com a Sarah a 11 anos, Pai de 3 filhos... Enzo, Henrique e Pedro!"
-  thumbnailUrl: LuisHenrique.jpg
-  rockstar: false
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/luishenriquesantana/" }  
+#-
+#  id: 506
+#  name: "Luis"
+#  surname: "Henrique"
+#  company: "TIBCO - Analytics, Data Science, IA"
+#  title: "Diretor de Negócios"
+#  bio: "Diretor Vendas e Novos Negócios e um grande Entusiasta da Inovação, Transformação Digital e Futurismo. Atualmente é Diretor de Vendas para a América Latina da TIBCO, empresa baseada no Vale do Silício, onde lidera as iniciativas relacionadas a novos produtos e novos negócios, apoiando o desenvolvimento de novos produtos e soluções em Analytics, Data Science, Machine Learning, Inovação, Transformação Digital e afins. Possui mais de 12 anos de experiência em empresas multinacionais de tecnologia, apoiando várias áreas de negócio, novos produtos e serviços. É formado em Administração de Empresas, MBA em Estratégia de Negócios pela FGV. Tem participado ainda em inúmeros cursos de pós-graduação em renomadas instituições tais Columbia University, London Business School e University of Michigan. É um grande entusiasta do tema “Inovação, Liderança e Transformação, Propósito nas Organizações, Tecnologias Exponenciais, Futuro e Novas Tecnologias”. Tem dedicado parte de seu tempo ao estudo intenso destes temas e a participação de inúmeros eventos, fóruns e meetups tendo como foco o tema Analytics, Inovação e Gestão do Futuro. Casado com a Sarah a 11 anos, Pai de 3 filhos... Enzo, Henrique e Pedro!"
+#  thumbnailUrl: LuisHenrique.jpg
+#  rockstar: false
+#  social:
+#    - { name: "linkedin", link: "https://www.linkedin.com/in/luishenriquesantana/" }  
 
 # Fabio Tagliari
 -

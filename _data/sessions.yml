@@ -314,13 +314,13 @@
   complexity: Básico Intermediário
 
 # Luis Henrique
--
-  id: 506
-  title: "Como identificar casos de uso nas áreas de negócios e como gerar valor com dados?"
-  description: "Porque alguém DEVERIA participar: é uma abordagem muito clara de como identificar casos de uso, dores relacionadas a dados, como identificar os silos de dados e onde estão as principais oportunidades com dados? O que a pessoa irá APRENDER: não adianta dominar a tecnologia, ter as soluções e interagir com os big players se voce nao consegue gerar valor pro negócio, gerar ROI, gerar insights e facilitar esse processo de apoio aos tomadores de decisao. "
-  subtype: presentation
-  speakers: [506]
-  complexity: Todos
+#-
+#  id: 506
+#  title: "Como identificar casos de uso nas áreas de negócios e como gerar valor com dados?"
+#  description: "Porque alguém DEVERIA participar: é uma abordagem muito clara de como identificar casos de uso, dores relacionadas a dados, como identificar os silos de dados e onde estão as principais oportunidades com dados? O que a pessoa irá APRENDER: não adianta dominar a tecnologia, ter as soluções e interagir com os big players se voce nao consegue gerar valor pro negócio, gerar ROI, gerar insights e facilitar esse processo de apoio aos tomadores de decisao. "
+#  subtype: presentation
+#  speakers: [506]
+#  complexity: Todos
   
 
 # Fabio & Vitor
