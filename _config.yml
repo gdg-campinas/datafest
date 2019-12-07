@@ -203,7 +203,7 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "25/10/2019T00:00"
-  validThrough: "06/12/2019T23:59"
+  validThrough: "07/12/2019T23:59"
   disabled: false
   soldOut: false
   soldOutText: "Esgotado"
@@ -219,7 +219,7 @@ ticketsOffers:
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "25/10/2019T00:00"
-  validThrough: "06/12/2019T23:59"
+  validThrough: "07/12/2019T23:59"
   disabled: false
   soldOut: false
   soldOutText: "Esgotado"
@@ -249,7 +249,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "06/12/2019T00:00"
+  validFrom: "07/12/2019T00:00"
   validThrough: "11/12/2019T23:59"
   disabled: true
   soldOut: false
@@ -265,7 +265,7 @@ ticketsOffers:
   buyButtonText: "Comprar"
   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "06/12/2019T00:00"
+  validFrom: "07/12/2019T00:00"
   validThrough: "11/12/2019T23:59"
   disabled: true
   soldOut: false
