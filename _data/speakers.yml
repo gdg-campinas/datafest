@@ -528,7 +528,19 @@
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/erlonrachi/" }
 
-    
+
+# Alexandre Borin
+-
+  id: 519
+  name: "Alexandre"
+  surname: "Borin"
+  company: "Prestus"
+  title: "CEO"
+  bio: "Alexandre Borin é CEO da Prestus, um serviço de Secretárias Compartilhadas para atendimento telefônico e remoto, 24 horas por dia. Borin é formado pela UNICAMP em Engenharia Elétrica (curso que iniciou no ITA, em 1995), pós-graduado em Marketing, MBA Executivo pelo Insper. Atuou por 8 anos na Ericsson Telecomunicações, indo de trainee a diretor em menos de 2 anos, e como empreendedor, foi capa da revista Pequenas Empresas & Grandes Negócios. É palestrante de temas como Inbound Marketing, Vendas Outbound, Gestão de Tempo, Técnicas de Apresentação Inteligência Artificial e Negociação; além de membro da Rede de Transformação Pública, uma rede voluntária, pluripartidária, reformista e de renovação política. Mais recentemente, assumiu como VP do Conselho Municipal de Ciência e Tecnologia e Inovação de Jundiaí/SP"
+  thumbnailUrl: AlexandreBorin.jpg
+  rockstar: false
+  social:
+    - { name: "linkedin", link: "https://www.linkedin.com/in/alexandreborin/" }
 
 
 # - 

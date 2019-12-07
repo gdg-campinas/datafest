@@ -350,6 +350,16 @@
   speakers: [517]
   complexity: Intermediário
 
+
+# Alexandre Borin
+-
+  id: 519
+  title: "Machine Learning: casos reais e práticos na geração de Vendas e no Pós-venda"
+  description: "Cases reais de aplicação de inteligência artificial na geração e qualificação de leads, e de aplicação na área de Sucesso do Cliente (pós-venda), buscando retenção e fidelização; trazidos pela Prestus, empresa de Atendimento 24h Compartilhado, que tem foco em PME's."
+  subtype: presentation
+  speakers: [519]
+  complexity: Intermediário
+
 # -
 #   id: 002
 #   title: "Building Cloud-powered wearable Apps"

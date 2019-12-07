@@ -33,8 +33,8 @@
     - { startTime: "13:00", endTime: "13:20", sessionIds: [110, 206, 307] }
     - { startTime: "13:20", endTime: "13:40", sessionIds: [109, 206, 307] }
     - { startTime: "13:40", endTime: "14:00", sessionIds: [108, 206, 307] }
-    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 203, 000] } 
-    - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 202, 000] }
+    - { startTime: "14:00", endTime: "14:30", sessionIds: [106, 203, 519] } 
+    - { startTime: "14:30", endTime: "15:00", sessionIds: [102, 202, 519] }
     - { startTime: "15:00", endTime: "15:30", sessionIds: [003] } # Coffee
     - { startTime: "15:30", endTime: "16:00", sessionIds: [103, 505, 305] } 
     - { startTime: "16:00", endTime: "16:30", sessionIds: [101, 504, 305] } 
