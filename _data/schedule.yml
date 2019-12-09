@@ -3,16 +3,17 @@
   date: "2019-11-10"
   dateReadable: "10 de Dezembro"
   tracks: 
-    - {title: "Workshops", color: "#56D3B4"}
+    - {title: "Workshops - Sala A", color: "#56D3B4"}
+    - {title: "Workshops - Sala B", color: "#E32F35"}
   timeslots:
     - { startTime: "08:30", endTime: "09:00", sessionIds: [001] } # Credenciamento
-    - { startTime: "09:00", endTime: "10:30", sessionIds: [501] }
+    - { startTime: "09:00", endTime: "10:30", sessionIds: [501,503] }
     - { startTime: "10:30", endTime: "11:00", sessionIds: [003] } # Coffee
-    - { startTime: "11:00", endTime: "12:30", sessionIds: [502] }
+    - { startTime: "11:00", endTime: "12:30", sessionIds: [503,501] }
     - { startTime: "12:30", endTime: "13:30", sessionIds: [004] } # Almoço
-    - { startTime: "13:30", endTime: "15:00", sessionIds: [503] }
+    - { startTime: "13:30", endTime: "15:00", sessionIds: [502,517] }
     - { startTime: "15:00", endTime: "15:30", sessionIds: [003] } # Coffee
-    - { startTime: "15:30", endTime: "17:00", sessionIds: [517] } 
+    - { startTime: "15:30", endTime: "17:00", sessionIds: [517,502] } 
 
 - 
   date: "2019-11-11"
