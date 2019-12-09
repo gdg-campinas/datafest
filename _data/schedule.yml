@@ -3,8 +3,8 @@
   date: "2019-11-10"
   dateReadable: "10 de Dezembro"
   tracks: 
-    - {title: "Workshops - Sala A", color: "#56D3B4"}
-    - {title: "Workshops - Sala B", color: "#E32F35"}
+    - {title: "Workshops - FEEC Sala LE46", color: "#56D3B4"}
+    - {title: "Workshops - FEEC Sala LE48", color: "#E32F35"}
   timeslots:
     - { startTime: "08:30", endTime: "09:00", sessionIds: [001] } # Credenciamento
     - { startTime: "09:00", endTime: "10:30", sessionIds: [501,503] }
