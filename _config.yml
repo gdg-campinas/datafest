@@ -173,7 +173,7 @@ ticketsOffers:
   validFrom: "11/11/2019T00:00"
   validThrough: "09/12/2019T12:00"
   disabled: false
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
  -
   name: "Workshops [Estudante] (10/dez)"
@@ -189,7 +189,7 @@ ticketsOffers:
   validFrom: "11/11/2019T00:00"
   validThrough: "09/12/2019T12:00"
   disabled: false
-  soldOut: false
+  soldOut: true
   soldOutText: "Esgotado"
  -
   name: "Palestras (11/dez)"
