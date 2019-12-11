@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "trilhas simultâneas", detail: "com conteúdo de alta qualidade"}
  - {count: "6", specialCharacter: "", info: "workshops", detail: "para aprender com a mão na massa"}
  - {count: "30", specialCharacter: "+", info: "palestrantes", detail: "referências no assunto"}
- - {count: "200", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
+ - {count: "400", specialCharacter: "+", info: "participantes", detail: "de Campinas e região"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
