@@ -31,8 +31,8 @@
     - { startTime: "11:00", endTime: "11:30", sessionIds: [107, 205, 301] }
     - { startTime: "11:30", endTime: "12:10", sessionIds: [110, 507, 518] }
     - { startTime: "12:00", endTime: "13:10", sessionIds: [004] } # Almoço
-    - { startTime: "13:10", endTime: "13:30", sessionIds: [106, 206, 307] } 
-    - { startTime: "13:30", endTime: "13:50", sessionIds: [109, 206, 307] }
+    - { startTime: "13:10", endTime: "13:30", sessionIds: [109, 206, 307] } 
+    - { startTime: "13:30", endTime: "13:50", sessionIds: [106, 206, 307] }
     - { startTime: "13:50", endTime: "14:10", sessionIds: [108, 206, 307] }
     - { startTime: "14:10", endTime: "14:40", sessionIds: [104, 203, 519] } 
     - { startTime: "14:40", endTime: "15:10", sessionIds: [102, 202, 519] }
