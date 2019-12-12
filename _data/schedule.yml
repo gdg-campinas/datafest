@@ -37,7 +37,7 @@
     - { startTime: "14:10", endTime: "14:40", sessionIds: [104, 203, 519] } 
     - { startTime: "14:40", endTime: "15:10", sessionIds: [102, 202, 519] }
     - { startTime: "15:10", endTime: "15:40", sessionIds: [003] } # Coffee
-    - { startTime: "15:50", endTime: "16:10", sessionIds: [103, 505, 305] } 
+    - { startTime: "15:40", endTime: "16:10", sessionIds: [103, 505, 305] } 
     - { startTime: "16:10", endTime: "16:40", sessionIds: [101, 504, 305] } 
     - { startTime: "16:40", endTime: "17:00", sessionIds: [402] } # Keynote Encerramento
     - { startTime: "17:00", endTime: "17:10", sessionIds: [005] } # Encerramento
